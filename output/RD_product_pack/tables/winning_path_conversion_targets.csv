@@ -1,0 +1,1501 @@
+customer_id,rfm_label,first_category_display,first_channel_display,winning_path_score,value_12m_proxy,margin_12m_proxy,days_since_last,conversion_alignment
+6.70252e+18,Potential Loyalist,Skincare,Store,100.0,974.4200000000001,1677.92,9,Channel aligned
+-2.00232e+18,Recent,Mixed Basket (Haircare + 5 others),Store,100.0,683.6,1154.2,156,Channel aligned
+-8.71759e+18,Potential Loyalist,Make Up,Store,100.0,681.09,1216.91,27,Category and channel aligned
+2.93959e+18,About to Sleep,Others,Store,100.0,539.9,1039.9,8,Channel aligned
+2.28964e+17,Potential Loyalist,Fragrance,Store,100.0,538.03,881.0799999999999,11,Channel aligned
+5.22051e+18,About to Sleep,Others,Store,100.0,495.99,975.99,7,Channel aligned
+-2.91755e+18,Potential Loyalist,Mixed Basket (Skincare + 1 others),Store,100.0,422.69,703.99,13,Channel aligned
+4.74895e+18,Need Attention,Others,Store,100.0,411.0,711.0,31,Channel aligned
+-5.68038e+18,At Risk,Others,Store,100.0,334.0,584.0,20,Channel aligned
+-2.4898e+18,Need Attention,Make Up,Store,100.0,324.9,564.9,10,Category and channel aligned
+-4.32189e+18,About to Sleep,Others,Store,100.0,320.0,595.0,2,Channel aligned
+-8.68723e+18,About to Sleep,Others,Store,100.0,302.99,592.99,33,Channel aligned
+-7.66606e+17,Need Attention,Mixed Basket (Skincare + 4 others),Store,100.0,285.94,480.95,16,Channel aligned
+3.96314e+18,Potential Loyalist,Make Up,Store,100.0,277.98,527.98,258,Category and channel aligned
+7.4069e+18,About to Sleep,Make Up,Store,100.0,270.96,485.96,12,Category and channel aligned
+-7.80175e+18,Need Attention,Make Up,Store,100.0,260.0,460.0,5,Category and channel aligned
+3.64035e+18,Can't Lose,Make Up,Store,100.0,246.89,446.89,81,Category and channel aligned
+-3.10907e+18,About to Sleep,Mixed Basket (Make Up + 3 others),Estore,100.0,242.98,442.98,29,New pattern to test
+6.80313e+16,About to Sleep,Others,Store,100.0,238.99,423.99,2,Channel aligned
+-3.63628e+18,About to Sleep,Skincare,Store,100.0,232.96,432.96000000000004,8,Channel aligned
+-6.04396e+18,About to Sleep,Mixed Basket (Haircare + 1 others),Store,100.0,219.99,379.99,5,Channel aligned
+2.44798e+18,About to Sleep,Others,Store,100.0,219.99,389.99,17,Channel aligned
+-7.01438e+18,About to Sleep,Others,Store,100.0,219.0,419.0,14,Channel aligned
+-1.94294e+18,About to Sleep,Others,Store,100.0,216.33,424.68,11,Channel aligned
+3.66086e+18,Need Attention,Skincare,Store,100.0,214.86,359.86,11,Channel aligned
+4.132e+18,About to Sleep,Make Up,Store,100.0,212.97,382.97,113,Category and channel aligned
+-6.8799e+18,About to Sleep,Others,Store,100.0,205.96,355.96000000000004,11,Channel aligned
+4.49459e+18,About to Sleep,Others,Store,100.0,203.0,403.0,112,Channel aligned
+7.22052e+18,At Risk,Others,Store,100.0,200.4,346.8,54,Channel aligned
+4.22528e+18,About to Sleep,Others,Store,100.0,190.99,340.99,78,Channel aligned
+-1.30919e+18,About to Sleep,Others,Store,100.0,189.99,339.99,14,Channel aligned
+-1.9123e+18,Potential Loyalist,Make Up,Store,100.0,189.98,354.98,196,Category and channel aligned
+3.70647e+18,About to Sleep,Make Up,Store,100.0,189.9,339.9,4,Category and channel aligned
+8.01636e+18,Promising,Fragrance,Estore,100.0,187.9,367.9,7,New pattern to test
+-4.18556e+18,About to Sleep,Mixed Basket (Skincare + 2 others),Store,100.0,176.0,326.0,15,Channel aligned
+-1.714e+18,About to Sleep,Fragrance,Store,100.0,174.9,319.9,21,Channel aligned
+-2.61909e+18,About to Sleep,Haircare,Estore,100.0,171.6,316.2,276,New pattern to test
+2.91147e+18,Potential Loyalist,Make Up,Store,100.0,170.48000000000002,290.48,11,Category and channel aligned
+1.73087e+18,About to Sleep,Make Up,Store,100.0,169.0,319.0,109,Category and channel aligned
+-8.48389e+18,About to Sleep,Make Up,Estore,100.0,167.0,317.0,14,Category aligned
+-8.36914e+18,About to Sleep,Skincare,Store,100.0,166.97,316.97,29,Channel aligned
+7.62475e+18,Can't Lose,Skincare,Store,100.0,166.9,316.9,11,Channel aligned
+7.67265e+17,About to Sleep,Others,Store,100.0,165.99,325.99,11,Channel aligned
+1.90215e+18,About to Sleep,Others,Store,100.0,165.99,315.99,188,Channel aligned
+-7.66454e+18,About to Sleep,Mixed Basket (Others + 3 others),Store,100.0,159.99,309.99,19,Channel aligned
+-1.64716e+18,About to Sleep,Others,Store,100.0,159.99,309.99,11,Channel aligned
+-1.31661e+18,At Risk,Mixed Basket (Make Up + 2 others),Estore,100.0,159.0,290.0,1,New pattern to test
+-7.29346e+18,Potential Loyalist,Make Up,Store,100.0,155.98000000000002,265.98,212,Category and channel aligned
+-9.21291e+18,About to Sleep,Mixed Basket (Skincare + 1 others),Estore,100.0,154.99,304.99,7,New pattern to test
+1.1004e+18,About to Sleep,Skincare,Store,100.0,154.99,304.99,8,Channel aligned
+3.31416e+18,About to Sleep,Skincare,Store,100.0,154.99,304.99,16,Channel aligned
+5.19812e+18,About to Sleep,Fragrance,Estore,100.0,154.99,304.99,299,New pattern to test
+-2.75914e+18,About to Sleep,Others,Store,100.0,151.98,291.98,26,Channel aligned
+-4.96068e+18,About to Sleep,Make Up,Store,100.0,146.97,261.97,22,Category and channel aligned
+-2.59666e+18,Loyal,Mixed Basket (Fragrance + 1 others),Store,100.0,145.98,256.98,175,Channel aligned
+-2.10884e+18,About to Sleep,Skincare,Store,100.0,145.98,245.98,11,Channel aligned
+8.71812e+17,About to Sleep,Others,Store,100.0,143.98,243.98,13,Channel aligned
+3.49587e+18,Recent,Skincare,Store,100.0,140.97,240.97,35,Channel aligned
+1.75522e+18,About to Sleep,Haircare,Store,100.0,139.9,249.9,4,Channel aligned
+2.22817e+18,At Risk,Fragrance,Estore,100.0,138.0,238.0,186,New pattern to test
+-5.2037e+18,About to Sleep,Skincare,Store,100.0,134.99,259.99,14,Channel aligned
+-2.05368e+18,About to Sleep,Make Up,Store,100.0,134.97,234.97,9,Category and channel aligned
+-7.14687e+17,About to Sleep,Make Up,Store,100.0,131.88,231.88,12,Category and channel aligned
+7.22911e+18,About to Sleep,Others,Store,100.0,129.99,229.99,19,Channel aligned
+-1.28549e+18,Potential Loyalist,Make Up,Store,100.0,129.97,229.97,64,Category and channel aligned
+5.20559e+18,About to Sleep,Others,Store,100.0,129.9,229.9,31,Channel aligned
+8.8425e+18,Need Attention,Make Up,Store,100.0,129.9,229.9,267,Category and channel aligned
+3.83308e+18,About to Sleep,Others,Store,100.0,128.98000000000002,238.98000000000002,15,Channel aligned
+5.81807e+18,About to Sleep,Others,Store,100.0,128.95999999999998,228.95999999999998,14,Channel aligned
+7.54702e+17,About to Sleep,Haircare,Store,100.0,127.49000000000001,227.49,128,Channel aligned
+5.01001e+16,Recent,Fragrance,Store,100.0,126.0,226.0,68,Channel aligned
+4.42236e+18,About to Sleep,Others,Store,100.0,126.0,216.0,15,Channel aligned
+8.85718e+18,About to Sleep,Skincare,Store,100.0,124.97999999999999,224.98,158,Channel aligned
+8.81754e+18,Recent,Others,Store,100.0,124.97,216.0,224,Channel aligned
+7.48127e+18,About to Sleep,Mixed Basket (Make Up + 3 others),Store,100.0,122.97999999999999,232.98,46,Channel aligned
+8.86609e+18,Loyal,Others,Store,100.0,119.2,214.4,309,Channel aligned
+5.28369e+18,About to Sleep,Fragrance,Store,100.0,119.0,219.0,12,Channel aligned
+-5.14551e+18,Need Attention,Mixed Basket (Make Up + 4 others),Store,100.0,118.76,202.56,216,Channel aligned
+6.09644e+18,About to Sleep,Others,Store,100.0,115.99,215.99,70,Channel aligned
+-8.36863e+18,At Risk,Others,Store,100.0,114.99,214.99,148,Channel aligned
+-9.189e+18,About to Sleep,Others,Store,100.0,113.99,213.99,167,Channel aligned
+8.8634e+17,About to Sleep,Mixed Basket (Make Up + 2 others),Store,100.0,112.99,212.99,9,Channel aligned
+1.70641e+18,Potential Loyalist,Fragrance,Store,100.0,110.78,209.58,212,Channel aligned
+4.59046e+18,At Risk,Others,Store,100.0,110.0,215.01,99,Channel aligned
+7.54219e+18,About to Sleep,Skincare,Store,100.0,108.0,198.0,26,Channel aligned
+-6.02773e+18,Need Attention,Mixed Basket (Make Up + 2 others),Store,100.0,107.99,207.99,77,Channel aligned
+-5.50412e+18,About to Sleep,Others,Store,100.0,105.99,195.99,12,Channel aligned
+-6.77857e+18,About to Sleep,Mixed Basket (Others + 1 others),Store,100.0,104.99,204.99,51,Channel aligned
+-1.71826e+18,About to Sleep,Haircare,Estore,100.0,104.5,184.5,10,New pattern to test
+8.54565e+17,About to Sleep,Make Up,Store,100.0,103.78,182.57999999999998,214,Category and channel aligned
+3.72575e+16,About to Sleep,Skincare,Store,100.0,101.5,181.5,8,Channel aligned
+1.70763e+18,Loyal,Make Up,Store,100.0,99.99,184.99,273,Category and channel aligned
+7.54918e+18,About to Sleep,Skincare,Store,100.0,99.97999999999999,179.98,176,Channel aligned
+3.059e+18,About to Sleep,Mixed Basket (Skincare + 3 others),Store,100.0,99.0,179.0,69,Channel aligned
+-8.2448e+18,At Risk,Mixed Basket (Others + 1 others),Store,100.0,94.99000000000001,184.99,1,Channel aligned
+3.38396e+18,About to Sleep,Haircare,Store,100.0,94.8,183.6,27,Channel aligned
+3.11637e+18,About to Sleep,Others,Store,100.0,91.5,171.5,15,Channel aligned
+-2.97357e+18,About to Sleep,Others,Store,100.0,88.86,155.72,168,Channel aligned
+8.83115e+18,About to Sleep,Make Up,Store,100.0,87.99,157.99,9,Category and channel aligned
+-7.82678e+18,About to Sleep,Others,Store,100.0,85.99,155.99,1,Channel aligned
+7.6276e+18,About to Sleep,Skincare,Store,100.0,83.99,163.99,181,Channel aligned
+7.99529e+18,About to Sleep,Make Up,Store,100.0,83.99,153.99,15,Category and channel aligned
+6.97178e+18,Loyal,Others,Store,100.0,83.58,155.18,348,Channel aligned
+-1.75061e+18,Need Attention,Fragrance,Store,100.0,83.0,148.0,243,Channel aligned
+3.59019e+17,About to Sleep,Make Up,Store,100.0,80.99,150.99,54,Category and channel aligned
+8.87346e+18,About to Sleep,Others,Store,100.0,79.99000000000001,154.99,17,Channel aligned
+-3.42216e+17,About to Sleep,Others,Store,100.0,79.99,149.99,10,Channel aligned
+-6.67791e+18,About to Sleep,Skincare,Store,100.0,79.98,149.98000000000002,11,Channel aligned
+2.01919e+18,About to Sleep,Make Up,Store,100.0,76.0,136.0,19,Category and channel aligned
+1.39559e+18,About to Sleep,Skincare,Store,100.0,75.98,135.98000000000002,95,Channel aligned
+2.88352e+18,About to Sleep,Others,Store,100.0,74.99,134.99,158,Channel aligned
+7.9184e+18,About to Sleep,Others,Store,100.0,74.99,134.99,334,Channel aligned
+-1.98616e+18,About to Sleep,Others,Store,100.0,74.98,134.98000000000002,16,Channel aligned
+-8.97061e+18,About to Sleep,Make Up,Store,100.0,73.99,132.99,11,Category and channel aligned
+-6.52345e+18,Need Attention,Fragrance,Store,100.0,73.99,133.99,111,Channel aligned
+3.86833e+18,About to Sleep,Make Up,Estore,100.0,73.99,133.99,9,Category aligned
+-7.77179e+18,About to Sleep,Others,Store,100.0,73.98,133.98000000000002,242,Channel aligned
+1.31648e+17,About to Sleep,Others,Store,100.0,67.9,122.9,9,Channel aligned
+7.8794e+18,About to Sleep,Others,Store,100.0,67.9,127.9,109,Channel aligned
+-8.47411e+17,About to Sleep,Make Up,Store,100.0,65.99,115.99,144,Category and channel aligned
+8.00623e+18,About to Sleep,Others,Store,100.0,65.0,115.0,68,Channel aligned
+-8.4206e+18,About to Sleep,Skincare,Store,100.0,64.98,124.98,13,Channel aligned
+-7.53902e+18,Need Attention,Others,Store,100.0,64.9,114.9,40,Channel aligned
+-2.10595e+18,About to Sleep,Others,Store,100.0,64.9,114.9,67,Channel aligned
+2.16777e+18,Need Attention,Skincare,Store,100.0,64.9,114.9,32,Channel aligned
+-5.38466e+18,About to Sleep,Skincare,Store,100.0,63.99,113.99000000000001,12,Channel aligned
+6.49776e+18,About to Sleep,Make Up,Store,100.0,63.99,113.99000000000001,14,Category and channel aligned
+8.378e+18,About to Sleep,Mixed Basket (Make Up + 1 others),Store,100.0,63.99,113.99000000000001,25,Channel aligned
+8.74762e+18,About to Sleep,Others,Store,100.0,63.480000000000004,111.98,155,Channel aligned
+3.14444e+18,Need Attention,Others,Store,100.0,62.99,112.99000000000001,84,Channel aligned
+-1.48679e+18,About to Sleep,Mixed Basket (Make Up + 1 others),Store,100.0,62.980000000000004,112.98,9,Channel aligned
+4.38194e+17,About to Sleep,Skincare,Store,100.0,59.99,109.99000000000001,30,Channel aligned
+-3.7644e+18,Can't Lose,Skincare,Store,100.0,58.980000000000004,108.98,12,Channel aligned
+-8.04636e+18,About to Sleep,Make Up,Store,100.0,57.9,107.9,7,Category and channel aligned
+-1.49082e+18,About to Sleep,Skincare,Store,100.0,52.0,92.0,249,Channel aligned
+8.64528e+18,At Risk,Others,Store,100.0,50.99,90.99000000000001,251,Channel aligned
+-1.40982e+18,About to Sleep,Others,Store,100.0,47.11,86.32,81,Channel aligned
+-9.13785e+18,Potential Loyalist,Make Up,Store,100.0,44.99,84.99000000000001,361,Category and channel aligned
+-6.95963e+18,About to Sleep,Skincare,Store,100.0,42.99,77.99000000000001,16,Channel aligned
+-5.70736e+18,About to Sleep,Make Up,Store,100.0,38.99,68.99000000000001,19,Category and channel aligned
+-5.02678e+18,About to Sleep,Others,Store,100.0,35.99,65.99000000000001,9,Channel aligned
+-3.54503e+17,About to Sleep,Others,Store,100.0,33.0,63.0,97,Channel aligned
+1.89814e+18,About to Sleep,Make Up,Store,99.9,139.9,239.9,92,Category and channel aligned
+1.17335e+18,Recent,Make Up,Store,99.7,393.1,629.3,12,Category and channel aligned
+-6.39413e+18,Potential Loyalist,Mixed Basket (Skincare + 1 others),Store,99.6,67.88,117.88,218,Channel aligned
+-3.57859e+17,Potential Loyalist,Make Up,Store,99.5,244.65,386.35,98,Category and channel aligned
+3.66456e+18,About to Sleep,Others,Store,99.5,32.9,57.9,137,Channel aligned
+-2.38657e+18,Need Attention,Make Up,Store,99.4,237.95999999999998,387.96,5,Category and channel aligned
+-7.79064e+18,About to Sleep,Make Up,Store,99.4,142.99,242.98000000000002,5,Category and channel aligned
+-5.6442e+18,About to Sleep,Mixed Basket (Haircare + 6 others),Store,99.4,39.980000000000004,69.98,123,Channel aligned
+-8.36759e+18,Promising,Others,Store,99.3,795.5,1348.0,33,Channel aligned
+2.74552e+18,At Risk,Skincare,Store,99.3,451.0,718.0,46,Channel aligned
+-3.68171e+18,Need Attention,Make Up,Store,99.2,242.0,417.0,95,Category and channel aligned
+7.20108e+18,Need Attention,Make Up,Store,99.0,53.99,93.99000000000001,32,Category and channel aligned
+-7.8106e+18,About to Sleep,Others,Store,98.8,61.19,108.39,32,Channel aligned
+-7.09842e+18,About to Sleep,Fragrance,Store,98.5,149.9,249.9,18,Channel aligned
+3.14219e+18,Recent,Fragrance,Store,98.5,121.12,207.54000000000002,60,Channel aligned
+8.70853e+18,At Risk,Others,Store,98.3,85.98,145.98000000000002,47,Channel aligned
+-1.41835e+18,About to Sleep,Make Up,Store,98.3,63.99,113.99000000000001,28,Category and channel aligned
+-6.79405e+18,About to Sleep,Others,Store,98.3,51.69,90.39,102,Channel aligned
+1.31938e+18,Potential Loyalist,Others,Store,98.0,414.25,685.5,187,Channel aligned
+-6.36009e+18,About to Sleep,Skincare,Store,98.0,136.0,227.0,0,Channel aligned
+3.42476e+18,About to Sleep,Mixed Basket (Fragrance + 1 others),Estore,98.0,96.0,166.0,15,New pattern to test
+9.08137e+18,Potential Loyalist,Make Up,Store,97.9,315.99,465.99,26,Category and channel aligned
+2.80381e+18,About to Sleep,Mixed Basket (Haircare + 1 others),Estore,97.8,123.0,208.0,209,New pattern to test
+4.8913e+18,About to Sleep,Others,Store,97.8,67.0,117.0,122,Channel aligned
+4.20967e+18,About to Sleep,Others,Store,97.8,47.99,82.99000000000001,74,Channel aligned
+-1.69261e+18,About to Sleep,Others,Store,97.6,86.0,146.0,14,Channel aligned
+3.06774e+18,At Risk,Make Up,Store,97.5,68.0,118.0,31,Category and channel aligned
+-8.12291e+18,Recent,Others,Store,97.3,502.5,818.1,31,Channel aligned
+-1.94515e+18,About to Sleep,Mixed Basket (Make Up + 1 others),Store,97.3,111.98,191.98000000000002,168,Channel aligned
+-7.13341e+18,Promising,Skincare,Store,97.1,350.78999999999996,560.79,20,Channel aligned
+3.51129e+18,Potential Loyalist,Others,Store,97.1,151.96,251.96,51,Channel aligned
+8.77747e+18,About to Sleep,Make Up,Estore,97.0,158.98000000000002,243.98000000000002,5,Category aligned
+-6.20765e+18,Need Attention,Make Up,Estore,96.9,166.98,271.98,2,Category aligned
+-5.79135e+17,About to Sleep,Skincare,Store,96.8,168.89,278.89,11,Channel aligned
+2.41692e+18,Need Attention,Make Up,Store,96.7,200.75,297.82,190,Category and channel aligned
+8.56536e+18,About to Sleep,Others,Store,96.7,136.0,236.0,7,Channel aligned
+6.61208e+18,About to Sleep,Fragrance,Store,96.7,86.0,146.0,20,Channel aligned
+5.21621e+18,Promising,Fragrance,Store,96.6,595.0,995.0,10,Channel aligned
+3.3512e+18,About to Sleep,Skincare,Store,96.6,165.99,275.99,22,Channel aligned
+-6.82922e+18,About to Sleep,Mixed Basket (Make Up + 3 others),Store,96.6,145.97,245.97,15,Channel aligned
+2.42263e+18,About to Sleep,Others,Store,96.6,67.99,117.99,57,Channel aligned
+6.90115e+18,Promising,Fragrance,Store,96.5,634.79,949.1899999999999,110,Channel aligned
+8.73425e+17,About to Sleep,Mixed Basket (Others + 2 others),Store,96.5,149.97,249.97,68,Channel aligned
+3.83723e+18,About to Sleep,Make Up,Store,96.5,87.98,147.98000000000002,9,Category and channel aligned
+7.0368e+18,About to Sleep,Skincare,Store,96.4,153.0,253.0,41,Channel aligned
+1.94902e+18,Need Attention,Make Up,Store,96.2,119.96000000000001,199.96,169,Category and channel aligned
+-4.99827e+18,About to Sleep,Make Up,Store,96.2,44.99,79.99000000000001,9,Category and channel aligned
+5.42e+18,Recent,Fragrance,Store,96.1,547.45,883.9000000000001,8,Channel aligned
+1.90693e+18,Need Attention,Make Up,Store,95.9,359.39,526.8399999999999,31,Category and channel aligned
+7.00106e+17,Need Attention,Make Up,Store,95.9,216.98,356.98,7,Category and channel aligned
+3.82599e+18,About to Sleep,Make Up,Store,95.9,62.89,107.89,22,Category and channel aligned
+7.96679e+18,Can't Lose,Skincare,Estore,95.6,184.2,284.2,27,New pattern to test
+4.4847e+18,Potential Loyalist,Others,Store,95.6,124.39,213.79000000000002,51,Channel aligned
+8.4822e+18,Promising,Others,Store,95.5,324.52000000000004,506.07000000000005,42,Channel aligned
+6.34704e+18,Potential Loyalist,Skincare,Store,95.5,311.71999999999997,499.71999999999997,29,Channel aligned
+-9.00976e+18,Need Attention,Others,Store,95.5,254.0,410.0,43,Channel aligned
+4.239e+18,Need Attention,Others,Store,95.5,218.94,368.94,28,Channel aligned
+-8.89237e+18,Potential Loyalist,Mixed Basket (Make Up + 1 others),Store,95.4,276.89,429.59,219,Channel aligned
+8.11281e+18,About to Sleep,Others,Store,95.3,97.98,167.98000000000002,51,Channel aligned
+8.41821e+18,About to Sleep,Make Up,Store,95.3,88.98,148.98000000000002,10,Category and channel aligned
+2.81173e+17,Recent,Skincare,Store,95.1,291.86,441.86,13,Channel aligned
+-1.09265e+18,Potential Loyalist,Make Up,Store,95.1,225.64,334.39,22,Category and channel aligned
+6.01761e+18,Need Attention,Mixed Basket (Skincare + 1 others),Store,95.0,260.99,410.99,9,Channel aligned
+3.07808e+18,Potential Loyalist,Make Up,Store,95.0,186.69,275.5,34,Category and channel aligned
+-6.14812e+18,Promising,Others,Store,94.9,729.75,1050.74,3,Channel aligned
+-9.09067e+18,Can't Lose,Others,Store,94.9,120.0,190.0,14,Channel aligned
+2.87532e+17,Need Attention,Fragrance,Store,94.7,279.24,429.49,4,Channel aligned
+3.51948e+18,Need Attention,Make Up,Store,94.7,243.65,389.9,75,Category and channel aligned
+-4.50864e+18,Need Attention,Others,Store,94.7,220.25,349.5,25,Channel aligned
+-8.2175e+18,About to Sleep,Others,Store,94.7,108.98,188.98000000000002,85,Channel aligned
+7.33962e+18,About to Sleep,Make Up,Store,94.6,67.99,117.99,30,Category and channel aligned
+3.42484e+18,Need Attention,Mixed Basket (Skincare + 2 others),Store,94.4,484.44,578.46,8,Channel aligned
+-7.59882e+18,Need Attention,Others,Store,94.4,286.0,486.0,96,Channel aligned
+5.51296e+18,Potential Loyalist,Make Up,Store,94.3,218.21,308.53,4,Category and channel aligned
+-7.83715e+17,About to Sleep,Make Up,Store,94.2,130.17000000000002,207.37,0,Category and channel aligned
+4.50027e+18,About to Sleep,Make Up,Store,94.1,378.02,555.12,15,Category and channel aligned
+-5.97543e+18,Loyal,Make Up,Store,93.9,1795.08,2921.48,5,Category and channel aligned
+5.68089e+18,Need Attention,Make Up,Store,93.9,230.67000000000002,324.44,33,Category and channel aligned
+4.11214e+18,Promising,Fragrance,Store,93.8,434.3,518.8,17,Channel aligned
+3.75151e+18,Need Attention,Others,Store,93.8,126.4,206.4,162,Channel aligned
+-6.3266e+18,About to Sleep,Mixed Basket (Skincare + 3 others),Store,93.5,88.97,148.97,144,Channel aligned
+-9.0283e+18,About to Sleep,Make Up,Store,93.5,53.99,93.99000000000001,25,Category and channel aligned
+-2.07134e+17,Need Attention,Others,Store,93.2,169.0,269.0,29,Channel aligned
+-2.77987e+18,Loyal,Make Up,Store,93.1,425.97,625.97,63,Category and channel aligned
+7.25723e+16,Need Attention,Fragrance,Store,93.1,171.9,271.9,23,Channel aligned
+7.35301e+18,About to Sleep,Others,Store,93.0,154.0,236.0,31,Channel aligned
+5.47857e+17,About to Sleep,Mixed Basket (Make Up + 2 others),Store,93.0,72.5,122.5,16,Channel aligned
+-6.80004e+18,Recent,Make Up,Store,92.9,269.21,403.71999999999997,13,Category and channel aligned
+6.87688e+18,Potential Loyalist,Make Up,Store,92.9,250.44,369.94,1,Category and channel aligned
+-2.02729e+18,Need Attention,Others,Store,92.8,174.0,274.0,92,Channel aligned
+-4.32016e+18,About to Sleep,Make Up,Store,92.8,163.99,278.99,49,Category and channel aligned
+8.35768e+18,Loyal,Skincare,Store,92.6,618.05,952.0999999999999,11,Channel aligned
+2.35341e+18,About to Sleep,Make Up,Store,92.4,52.99,92.99000000000001,13,Category and channel aligned
+-6.51404e+17,Need Attention,Others,Store,92.3,311.89,511.89,9,Channel aligned
+2.85285e+18,About to Sleep,Fragrance,Store,92.3,83.0,136.1,336,Channel aligned
+2.51335e+18,About to Sleep,Others,Store,92.3,77.98,127.98,15,Channel aligned
+-5.02308e+18,Need Attention,Fragrance,Store,92.2,239.89,359.89,7,Channel aligned
+7.44544e+18,About to Sleep,Make Up,Store,92.2,131.99,216.99,32,Category and channel aligned
+-7.31993e+18,At Risk,Fragrance,Estore,92.0,1181.02,822.73,9,New pattern to test
+-3.34148e+18,Loyal,Others,Store,92.0,761.74,1181.74,4,Channel aligned
+6.83881e+18,At Risk,Fragrance,Estore,92.0,232.8,308.6,29,New pattern to test
+-4.68134e+18,About to Sleep,Make Up,Store,92.0,139.73000000000002,233.48000000000002,13,Category and channel aligned
+8.14359e+18,Need Attention,Haircare,Store,91.9,240.2,333.51,0,Channel aligned
+3.43826e+18,Potential Loyalist,Make Up,Store,91.8,559.22,900.47,18,Category and channel aligned
+4.56778e+18,Need Attention,Fragrance,Store,91.8,234.0,356.0,11,Channel aligned
+-9.02438e+18,Need Attention,Others,Store,91.8,208.19,286.39,51,Channel aligned
+-8.36411e+18,Need Attention,Make Up,Store,91.8,154.88,239.88,14,Category and channel aligned
+8.04695e+18,About to Sleep,Skincare,Store,91.7,764.33,721.83,13,Channel aligned
+-7.99638e+17,Champions,Make Up,Estore,91.6,1271.35,1545.2399999999998,10,Category aligned
+6.45587e+18,Potential Loyalist,Skincare,Store,91.5,337.05,518.25,39,Channel aligned
+1.00834e+18,Promising,Fragrance,Store,91.5,233.2,294.4,8,Channel aligned
+7.62197e+18,Need Attention,Others,Store,91.5,43.99,73.99000000000001,327,Channel aligned
+1.82556e+18,Recent,Make Up,Store,91.4,878.55,789.3599999999999,8,Category and channel aligned
+7.48433e+18,Potential Loyalist,Make Up,Store,91.4,741.9100000000001,565.3900000000001,13,Category and channel aligned
+-2.68348e+18,Need Attention,Fragrance,Estore,91.4,209.99,277.99,71,New pattern to test
+-6.20962e+18,Need Attention,Mixed Basket (Others + 1 others),Store,91.4,188.28,255.57999999999998,27,Channel aligned
+6.94017e+18,Need Attention,Fragrance,Store,91.4,154.25,240.5,210,Channel aligned
+1.68989e+18,Can't Lose,Make Up,Estore,91.3,527.87,573.87,9,Category aligned
+2.97771e+18,Potential Loyalist,Mixed Basket (Skincare + 2 others),Store,91.3,477.1,493.48,17,Channel aligned
+6.99234e+18,Potential Loyalist,Make Up,Store,91.3,351.39,501.39,10,Category and channel aligned
+-5.32035e+17,Potential Loyalist,Make Up,Estore,91.3,242.39,303.90999999999997,86,Category aligned
+5.47727e+18,Can't Lose,Make Up,Estore,91.2,478.81,443.35,18,Category aligned
+3.65887e+17,Recent,Others,Store,91.1,480.22,724.77,10,Channel aligned
+-6.75191e+18,Champions,Fragrance,Estore,91.0,937.36,719.86,96,New pattern to test
+-6.03243e+18,Champions,Fragrance,Estore,91.0,896.16,689.43,96,New pattern to test
+-8.0311e+18,Potential Loyalist,Haircare,Store,91.0,476.73,715.64,13,Channel aligned
+-8.75267e+18,At Risk,Mixed Basket (Make Up + 2 others),Store,91.0,271.22,394.47,24,Channel aligned
+5.60667e+17,Promising,Fragrance,Estore,91.0,254.5,342.0,5,New pattern to test
+-6.62233e+18,Potential Loyalist,Haircare,Store,91.0,211.93,258.93,4,Channel aligned
+-3.94991e+18,Need Attention,Make Up,Store,91.0,161.09,243.19,10,Category and channel aligned
+1.89472e+18,About to Sleep,Others,Store,91.0,129.95,219.95,21,Channel aligned
+7.54053e+18,About to Sleep,Make Up,Store,91.0,67.99,117.99,15,Category and channel aligned
+-6.9266e+18,Champions,Make Up,Store,90.9,1015.3199999999999,1228.4199999999998,9,Category and channel aligned
+-3.61856e+18,Potential Loyalist,Skincare,Store,90.9,1009.64,734.29,4,Channel aligned
+4.66145e+18,Recent,Make Up,Store,90.9,478.14,623.39,16,Category and channel aligned
+-4.22283e+18,About to Sleep,Make Up,Store,90.9,374.44,380.39,12,Category and channel aligned
+-2.33619e+18,About to Sleep,Make Up,Store,90.9,153.78,249.57999999999998,4,Category and channel aligned
+-2.48027e+18,Potential Loyalist,Fragrance,Store,90.8,459.34,674.74,12,Channel aligned
+-5.87652e+18,Need Attention,Fragrance,Store,90.8,205.99,315.99,7,Channel aligned
+-7.40716e+18,About to Sleep,Make Up,Store,90.8,79.0,129.0,18,Category and channel aligned
+-7.75537e+18,Potential Loyalist,Make Up,Store,90.7,161.45,258.95,70,Category and channel aligned
+2.01945e+18,About to Sleep,Mixed Basket (Skincare + 1 others),Store,90.7,129.9,209.9,111,Channel aligned
+9.02483e+18,Need Attention,Skincare,Store,90.6,563.83,509.66,5,Channel aligned
+-2.70166e+18,Need Attention,Mixed Basket (Skincare + 2 others),Estore,90.6,474.88,419.98,6,New pattern to test
+1.97138e+18,About to Sleep,Make Up,Store,90.6,442.8,434.82,52,Category and channel aligned
+-9.13407e+18,Promising,Fragrance,Store,90.6,278.0,428.0,7,Channel aligned
+-8.3461e+17,About to Sleep,Skincare,Store,90.6,247.38,347.38,61,Channel aligned
+6.51799e+18,Need Attention,Make Up,Store,90.6,175.88,280.88,23,Category and channel aligned
+5.02751e+17,Loyal,Fragrance,Estore,90.5,634.95,831.9000000000001,33,New pattern to test
+-8.45433e+17,Loyal,Fragrance,Store,90.5,321.99,494.99,116,Channel aligned
+2.9588e+18,Need Attention,Make Up,Store,90.5,209.79,309.78999999999996,7,Category and channel aligned
+8.03617e+18,About to Sleep,Others,Store,90.5,207.48000000000002,298.98,31,Channel aligned
+5.72926e+18,Need Attention,Make Up,Store,90.5,176.79,276.78999999999996,165,Category and channel aligned
+-2.79602e+18,About to Sleep,Make Up,Store,90.5,68.98,118.98,8,Category and channel aligned
+-7.75246e+18,Need Attention,Fragrance,Store,90.4,581.17,465.64,7,Channel aligned
+6.06384e+18,Potential Loyalist,Make Up,Store,90.4,331.29,438.29,9,Category and channel aligned
+7.1395e+18,About to Sleep,Skincare,Store,90.4,296.11,329.63,31,Channel aligned
+1.05807e+18,About to Sleep,Skincare,Store,90.4,28.98,48.980000000000004,63,Channel aligned
+-3.44468e+18,About to Sleep,Make Up,Store,90.3,1240.1399999999999,1106.3799999999999,17,Category and channel aligned
+8.49963e+18,Promising,Fragrance,Estore,90.3,490.83,446.79999999999995,36,New pattern to test
+-1.19959e+18,About to Sleep,Others,Store,90.3,143.07,232.27999999999997,11,Channel aligned
+-5.80702e+18,About to Sleep,Others,Store,90.3,123.0,202.0,42,Channel aligned
+3.01849e+18,About to Sleep,Mixed Basket (Make Up + 3 others),Store,90.3,48.5,80.5,140,Channel aligned
+-6.67226e+18,Champions,Make Up,Store,90.2,972.5500000000001,641.2,95,Category and channel aligned
+3.48719e+18,Need Attention,Skincare,Store,90.2,225.23000000000002,326.48,15,Channel aligned
+-1.47863e+18,Can't Lose,Others,Store,90.2,189.8,289.8,13,Channel aligned
+-8.09427e+18,Need Attention,Others,Store,90.2,78.98,128.98000000000002,308,Channel aligned
+4.75734e+18,Potential Loyalist,Fragrance,Estore,90.1,402.29,553.79,21,New pattern to test
+1.82086e+18,Recent,Others,Store,90.1,342.98,470.98,34,Channel aligned
+4.00911e+18,Need Attention,Others,Store,90.1,243.75,362.5,19,Channel aligned
+4.83905e+17,Need Attention,Others,Store,90.1,233.99,383.99,9,Channel aligned
+7.9362e+18,Need Attention,Haircare,Store,90.1,156.18,242.38,11,Channel aligned
+-6.41103e+18,About to Sleep,Others,Store,90.1,29.9,49.9,27,Channel aligned
+-7.25909e+18,Champions,Skincare,Store,90.0,840.14,644.99,97,Channel aligned
+8.93153e+18,Potential Loyalist,Mixed Basket (Skincare + 12 others),Store,90.0,657.36,697.36,17,Channel aligned
+5.94285e+18,Loyal,Make Up,Store,90.0,629.59,927.19,26,Category and channel aligned
+6.24609e+18,Recent,Not Specified,Estore,90.0,81.88000000000001,131.88,53,New pattern to test
+-7.88985e+17,About to Sleep,Make Up,Store,90.0,69.18,117.38000000000001,13,Category and channel aligned
+8.62569e+18,Loyal,Mixed Basket (Others + 1 others),Store,89.9,998.3100000000001,1546.94,43,Channel aligned
+-8.93551e+18,About to Sleep,Skincare,Store,89.9,996.1,881.54,4,Channel aligned
+-6.75723e+18,Champions,Make Up,Store,89.9,933.33,1188.16,55,Category and channel aligned
+-5.81369e+18,At Risk,Mixed Basket (Make Up + 3 others),Store,89.9,424.5,424.5,6,Channel aligned
+8.18096e+18,Recent,Skincare,Store,89.9,341.5,454.0,8,Channel aligned
+-5.71679e+18,About to Sleep,Make Up,Store,89.9,61.84,102.88,2,Category and channel aligned
+5.29612e+18,About to Sleep,Make Up,Store,89.9,60.980000000000004,100.98,33,Category and channel aligned
+1.08722e+18,Need Attention,Skincare,Store,89.8,364.12,349.38,9,Channel aligned
+7.76908e+16,Potential Loyalist,Mixed Basket (Skincare + 3 others),Store,89.8,176.24,239.54000000000002,1,Channel aligned
+-8.86181e+18,About to Sleep,Make Up,Store,89.7,933.77,581.86,14,Category and channel aligned
+-9.08015e+17,Champions,Others,Store,89.7,910.63,940.11,0,Channel aligned
+-5.20757e+18,Loyal,Skincare,Estore,89.7,602.53,744.23,63,New pattern to test
+8.84494e+18,Loyal,Make Up,Store,89.7,534.9200000000001,645.0500000000001,4,Category and channel aligned
+-1.30545e+18,Need Attention,Skincare,Store,89.7,216.0,286.0,9,Channel aligned
+-3.35823e+17,About to Sleep,Make Up,Store,89.7,45.99,75.99000000000001,215,Category and channel aligned
+5.71295e+18,Champions,Make Up,Store,89.6,1126.17,1243.44,2,Category and channel aligned
+8.24097e+18,Recent,Mixed Basket (Make Up + 1 others),Estore,89.6,524.42,501.67999999999995,245,New pattern to test
+6.14587e+18,Potential Loyalist,Make Up,Store,89.6,409.46999999999997,363.28999999999996,8,Category and channel aligned
+-4.14151e+18,At Risk,Mixed Basket (Others + 1 others),Store,89.6,288.25,398.5,224,Channel aligned
+-7.21241e+18,At Risk,Mixed Basket (Others + 2 others),Store,89.6,216.4,306.4,2,Channel aligned
+-1.13379e+17,Need Attention,Make Up,Store,89.6,167.91,244.92,11,Category and channel aligned
+1.41038e+18,Loyal,Others,Store,89.5,561.46,741.02,46,Channel aligned
+-1.24706e+17,Loyal,Make Up,Store,89.5,492.6,781.63,111,Category and channel aligned
+5.47937e+18,Potential Loyalist,Skincare,Store,89.5,273.45,373.45,9,Channel aligned
+1.38031e+18,About to Sleep,Mixed Basket (Others + 2 others),Store,89.4,85.98,135.98000000000002,212,Channel aligned
+8.33958e+18,About to Sleep,Make Up,Store,89.4,69.0,119.0,16,Category and channel aligned
+-8.9975e+18,Champions,Mixed Basket (Skincare + 4 others),Store,89.3,740.8000000000001,766.3900000000001,1,Channel aligned
+8.1128e+18,Loyal,Make Up,Store,89.3,630.78,713.8199999999999,31,Category and channel aligned
+1.87369e+18,Potential Loyalist,Fragrance,Store,89.3,409.96000000000004,378.73,112,Channel aligned
+2.98343e+17,Loyal,Make Up,Store,89.3,344.9,485.9,147,Category and channel aligned
+-7.42645e+18,Loyal,Make Up,Store,89.3,328.37,328.37,28,Category and channel aligned
+7.65097e+18,Potential Loyalist,Make Up,Store,89.3,263.85,313.35,11,Category and channel aligned
+-5.2723e+18,Potential Loyalist,Make Up,Store,89.3,193.57,289.16999999999996,11,Category and channel aligned
+-2.68301e+18,Loyal,Others,Store,89.2,644.28,733.13,81,Channel aligned
+4.89659e+18,Loyal,Make Up,Store,89.2,629.37,705.57,20,Category and channel aligned
+6.40636e+18,Need Attention,Skincare,Store,89.2,180.69,269.49,21,Channel aligned
+1.57398e+18,About to Sleep,Mixed Basket (Others + 2 others),Store,89.2,91.96000000000001,151.96,84,Channel aligned
+1.97472e+18,Loyal,Fragrance,Store,89.1,808.46,1102.12,40,Channel aligned
+-7.29231e+18,Loyal,Mixed Basket (Skincare + 1 others),Store,89.1,444.24,535.85,0,Channel aligned
+-7.1138e+18,Recent,Mixed Basket (Make Up + 1 others),Store,89.1,260.21000000000004,355.46000000000004,180,Channel aligned
+6.97013e+17,Recent,Fragrance,Store,89.1,235.17,325.37,11,Channel aligned
+2.9472e+18,Potential Loyalist,Make Up,Store,89.1,178.8,271.81,60,Category and channel aligned
+-1.07324e+18,About to Sleep,Others,Store,89.1,90.99000000000001,150.99,173,Channel aligned
+-8.75245e+18,About to Sleep,Others,Store,89.1,32.980000000000004,57.980000000000004,107,Channel aligned
+7.92931e+18,Champions,Fragrance,Estore,89.0,794.04,831.56,12,New pattern to test
+-6.41494e+17,Loyal,Make Up,Store,89.0,510.09000000000003,622.3900000000001,0,Category and channel aligned
+1.83183e+18,Recent,Mixed Basket (Make Up + 7 others),Store,89.0,487.62,418.37,32,Channel aligned
+-2.56092e+18,Promising,Make Up,Estore,89.0,414.9,365.90999999999997,151,Category aligned
+-2.6339e+17,Recent,Fragrance,Store,89.0,326.5,446.0,56,Channel aligned
+-8.19287e+18,About to Sleep,Make Up,Store,89.0,101.0,157.0,15,Category and channel aligned
+7.63421e+18,About to Sleep,Mixed Basket (Skincare + 2 others),Estore,89.0,79.98,129.98000000000002,81,New pattern to test
+4.3299e+18,Champions,Make Up,Estore,88.9,1225.1200000000001,1154.2400000000002,4,Category aligned
+-8.45706e+18,Need Attention,Mixed Basket (Make Up + 8 others),Store,88.9,484.43,448.25,39,Channel aligned
+-2.91071e+18,Potential Loyalist,Fragrance,Store,88.9,376.1,310.85,17,Channel aligned
+-7.48092e+18,Recent,Skincare,Store,88.9,299.6,290.0,17,Channel aligned
+-7.27881e+18,Champions,Make Up,Store,88.8,835.05,876.4699999999999,54,Category and channel aligned
+-5.0976e+18,Champions,Others,Store,88.8,373.38,489.88,214,Channel aligned
+-5.04627e+18,Potential Loyalist,Skincare,Store,88.8,317.36,317.86,103,Channel aligned
+1.89392e+17,Potential Loyalist,Fragrance,Estore,88.8,255.78,383.59000000000003,32,New pattern to test
+2.33415e+18,Need Attention,Fragrance,Store,88.8,161.59,241.19,5,Channel aligned
+-2.41991e+18,Need Attention,Mixed Basket (Make Up + 1 others),Store,88.8,159.89,239.79,5,Channel aligned
+-8.78781e+18,Recent,Make Up,Store,88.7,300.64,266.28999999999996,91,Category and channel aligned
+-8.01365e+18,Recent,Make Up,Store,88.7,294.9,264.84999999999997,41,Category and channel aligned
+1.93971e+17,Need Attention,Others,Store,88.7,79.97999999999999,119.97999999999999,342,Channel aligned
+-1.37411e+18,Need Attention,Make Up,Store,88.6,194.99,294.99,220,Category and channel aligned
+-5.5556e+18,Need Attention,Haircare,Store,88.6,184.99,264.99,4,Channel aligned
+2.50007e+18,About to Sleep,Make Up,Store,88.6,159.79000000000002,248.59000000000003,16,Category and channel aligned
+4.02671e+18,Need Attention,Make Up,Estore,88.6,142.91000000000003,189.91000000000003,21,Category aligned
+-6.34319e+18,Recent,Fragrance,Estore,88.5,983.67,1236.6399999999999,14,New pattern to test
+-3.21903e+18,Champions,Make Up,Store,88.5,927.85,861.73,0,Category and channel aligned
+2.64945e+18,Champions,Make Up,Store,88.4,934.08,905.5,8,Category and channel aligned
+-8.59315e+18,Loyal,Haircare,Estore,88.4,306.4,302.79999999999995,152,New pattern to test
+-7.02737e+18,Recent,Make Up,Store,88.4,283.35,319.81,12,Category and channel aligned
+-8.7893e+17,Recent,Fragrance,Store,88.4,249.36,342.76,53,Channel aligned
+-8.92694e+18,About to Sleep,Others,Store,88.4,54.99,94.99000000000001,61,Channel aligned
+-2.56738e+17,Champions,Make Up,Estore,88.3,942.87,949.19,40,Category aligned
+7.1592e+18,Champions,Skincare,Store,88.3,747.1999999999999,835.4699999999999,4,Channel aligned
+5.91003e+18,Recent,Mixed Basket (Fragrance + 1 others),Store,88.3,701.28,691.6899999999999,55,Channel aligned
+2.75511e+18,Loyal,Haircare,Store,88.3,643.97,678.6700000000001,12,Channel aligned
+6.15791e+18,Loyal,Skincare,Store,88.3,636.63,689.51,7,Channel aligned
+7.7365e+18,Recent,Mixed Basket (Skincare + 1 others),Store,88.3,522.53,590.28,22,Channel aligned
+2.14242e+18,Potential Loyalist,Make Up,Estore,88.3,410.7,395.76,19,Category aligned
+5.14817e+18,Loyal,Make Up,Estore,88.3,324.04,320.45000000000005,183,Category aligned
+3.81108e+18,Need Attention,Others,Store,88.3,173.0,273.0,8,Channel aligned
+7.20767e+18,About to Sleep,Others,Store,88.3,92.97999999999999,152.98,117,Channel aligned
+9.6084e+17,About to Sleep,Skincare,Store,88.3,85.0,135.0,14,Channel aligned
+-4.90614e+18,Champions,Fragrance,Store,88.2,994.0600000000001,1074.16,43,Channel aligned
+3.00829e+18,Champions,Mixed Basket (Skincare + 5 others),Store,88.2,747.96,732.1700000000001,12,Channel aligned
+-6.09964e+18,Champions,Haircare,Estore,88.2,728.05,678.37,11,New pattern to test
+-5.52881e+18,Loyal,Make Up,Store,88.2,641.9,672.51,49,Category and channel aligned
+-5.04211e+18,At Risk,Mixed Basket (Others + 1 others),Store,88.2,477.9,572.91,272,Channel aligned
+-4.10665e+18,Promising,Mixed Basket (Make Up + 3 others),Estore,88.2,307.0,284.5,47,New pattern to test
+2.21977e+17,Potential Loyalist,Fragrance,Estore,88.2,185.59,280.24,29,New pattern to test
+3.67652e+18,About to Sleep,Mixed Basket (Make Up + 2 others),Store,88.2,153.89,253.89,47,Channel aligned
+-1.66232e+18,At Risk,Mixed Basket (Haircare + 20 others),Store,88.1,1333.2,1333.2,313,Channel aligned
+6.00881e+18,Champions,Mixed Basket (Make Up + 2 others),Estore,88.1,667.82,691.24,2,New pattern to test
+-6.46893e+18,Potential Loyalist,Make Up,Store,88.1,481.59000000000003,419.1,43,Category and channel aligned
+-6.87083e+17,At Risk,Mixed Basket (Make Up + 3 others),Store,88.1,399.54999999999995,362.81999999999994,5,Channel aligned
+-5.50901e+17,Promising,Mixed Basket (Fragrance + 2 others),Store,88.1,201.89000000000001,231.89000000000001,1,Channel aligned
+-5.76125e+18,Potential Loyalist,Make Up,Estore,88.1,189.02,214.07,1,Category aligned
+-5.87379e+18,Champions,Make Up,Store,88.0,917.0,817.47,14,Category and channel aligned
+-5.13386e+18,Champions,Make Up,Estore,88.0,756.2,735.6,12,Category aligned
+7.39162e+18,Loyal,Fragrance,Store,88.0,527.65,504.55999999999995,7,Channel aligned
+-5.18936e+17,Recent,Haircare,Store,88.0,507.09000000000003,480.69000000000005,54,Channel aligned
+4.36818e+18,Promising,Others,Store,88.0,331.47,426.47,271,Channel aligned
+5.83884e+18,Potential Loyalist,Others,Store,88.0,114.98,174.98000000000002,117,Channel aligned
+-9.16626e+18,Recent,Make Up,Store,87.9,1820.34,1640.08,3,Category and channel aligned
+4.20266e+18,Champions,Make Up,Store,87.9,1664.93,1445.8400000000001,8,Category and channel aligned
+1.64178e+18,Champions,Skincare,Store,87.9,961.56,864.05,0,Channel aligned
+-7.01575e+18,Champions,Make Up,Store,87.9,916.3,863.15,15,Category and channel aligned
+-3.11294e+18,Champions,Skincare,Store,87.9,891.13,895.38,8,Channel aligned
+6.43621e+18,Recent,Make Up,Store,87.9,592.96,713.96,13,Category and channel aligned
+-8.7504e+18,Recent,Make Up,Store,87.9,296.74,404.49,13,Category and channel aligned
+-8.23632e+18,Promising,Others,Store,87.9,259.99,359.99,284,Channel aligned
+-6.15326e+18,Recent,Others,Store,87.9,231.3,318.22,50,Channel aligned
+2.67227e+18,Recent,Make Up,Store,87.9,203.49,233.49,23,Category and channel aligned
+-2.54549e+18,Need Attention,Fragrance,Store,87.9,182.0,262.0,11,Channel aligned
+-2.5983e+18,Need Attention,Make Up,Store,87.9,167.25,236.5,13,Category and channel aligned
+3.86186e+18,Need Attention,Skincare,Store,87.9,156.73000000000002,216.48000000000002,11,Channel aligned
+-8.83599e+18,About to Sleep,Skincare,Store,87.9,46.9,76.9,336,Channel aligned
+-7.67416e+18,Need Attention,Others,Store,87.9,29.98,49.980000000000004,175,Channel aligned
+-4.00761e+18,At Risk,Mixed Basket (Make Up + 20 others),Store,87.8,1455.44,1391.6100000000001,168,Channel aligned
+-7.6701e+18,Champions,Fragrance,Store,87.8,879.7,808.01,10,Channel aligned
+-4.60074e+18,Champions,Make Up,Store,87.8,844.2,766.01,0,Category and channel aligned
+-8.48217e+18,Champions,Make Up,Estore,87.8,822.8,833.9499999999999,4,Category aligned
+-1.79278e+18,Loyal,Mixed Basket (Make Up + 1 others),Store,87.8,583.91,619.9699999999999,15,Channel aligned
+7.31034e+18,Potential Loyalist,Make Up,Store,87.8,386.89,542.02,18,Category and channel aligned
+-6.17205e+18,Recent,Make Up,Store,87.8,275.4,375.4,18,Category and channel aligned
+-7.59473e+18,Potential Loyalist,Make Up,Store,87.8,261.85,361.85,26,Category and channel aligned
+-4.03174e+18,Need Attention,Others,Store,87.8,245.0,395.0,16,Channel aligned
+-4.69248e+18,About to Sleep,Mixed Basket (Make Up + 1 others),Store,87.8,204.76,208.78,0,Channel aligned
+6.84448e+18,Potential Loyalist,Mixed Basket (Make Up + 1 others),Store,87.8,63.49,103.49000000000001,214,Channel aligned
+-3.41555e+18,About to Sleep,Others,Store,87.8,40.99,70.99000000000001,9,Channel aligned
+-7.6382e+18,Recent,Make Up,Store,87.7,2070.35,1911.4299999999998,10,Category and channel aligned
+-7.37975e+18,Champions,Skincare,Store,87.7,1030.06,943.26,2,Channel aligned
+4.53128e+18,Champions,Make Up,Store,87.7,812.64,748.92,5,Category and channel aligned
+-7.15653e+18,Promising,Make Up,Store,87.7,747.54,685.5799999999999,2,Category and channel aligned
+7.50158e+18,Champions,Skincare,Store,87.7,730.54,749.4499999999999,20,Channel aligned
+-8.72618e+18,Champions,Mixed Basket (Make Up + 1 others),Estore,87.7,662.48,622.82,3,New pattern to test
+-2.66142e+18,Champions,Mixed Basket (Make Up + 3 others),Store,87.7,624.69,602.74,18,Channel aligned
+-2.58487e+17,Loyal,Haircare,Store,87.7,605.08,672.0500000000001,63,Channel aligned
+-5.2604e+18,Loyal,Skincare,Store,87.7,594.15,571.4499999999999,1,Channel aligned
+-3.48963e+18,Promising,Fragrance,Estore,87.7,487.9,607.8,12,New pattern to test
+1.64052e+18,Loyal,Fragrance,Store,87.7,477.03,500.17999999999995,14,Channel aligned
+-2.78411e+18,Loyal,Others,Store,87.7,435.06,616.26,22,Channel aligned
+6.82743e+18,Promising,Fragrance,Estore,87.7,424.05,540.1,8,New pattern to test
+-8.60694e+18,Loyal,Skincare,Store,87.7,399.96999999999997,489.06999999999994,9,Channel aligned
+7.98022e+18,Recent,Make Up,Store,87.7,355.13,431.28,23,Category and channel aligned
+-2.50455e+18,Loyal,Make Up,Store,87.7,336.37,252.07,36,Category and channel aligned
+-2.93313e+18,Loyal,Make Up,Store,87.7,319.01,273.24,50,Category and channel aligned
+-7.40283e+18,Loyal,Make Up,Store,87.7,270.63,219.93,38,Category and channel aligned
+4.92954e+18,Recent,Fragrance,Store,87.7,263.64,260.39,215,Channel aligned
+-5.85162e+18,Recent,Mixed Basket (Make Up + 1 others),Store,87.7,207.0,302.0,218,Channel aligned
+-5.20162e+18,Need Attention,Make Up,Store,87.7,196.47,295.97,25,Category and channel aligned
+-3.38437e+18,Need Attention,Mixed Basket (Skincare + 3 others),Store,87.7,182.67000000000002,282.67,75,Channel aligned
+-8.84167e+18,Potential Loyalist,Make Up,Store,87.7,136.8,213.60000000000002,86,Category and channel aligned
+3.86821e+18,About to Sleep,Make Up,Store,87.7,48.980000000000004,78.98,14,Category and channel aligned
+3.61165e+18,Recent,Fragrance,Estore,87.6,1160.12,1032.9199999999998,10,New pattern to test
+-1.44758e+17,Champions,Others,Store,87.6,926.74,961.44,4,Channel aligned
+5.16037e+18,Champions,Mixed Basket (Skincare + 5 others),Store,87.6,798.13,753.16,4,Channel aligned
+-3.18993e+18,Champions,Make Up,Store,87.6,712.01,661.11,26,Category and channel aligned
+-6.73896e+18,Champions,Haircare,Store,87.6,701.92,675.55,4,Channel aligned
+-4.88873e+18,Loyal,Make Up,Store,87.6,564.9300000000001,581.33,0,Category and channel aligned
+7.98006e+18,Loyal,Skincare,Store,87.6,530.94,721.49,22,Channel aligned
+8.39059e+18,Recent,Skincare,Store,87.6,366.27,418.57,12,Channel aligned
+-3.58857e+18,Loyal,Make Up,Store,87.6,257.47,245.07000000000002,4,Category and channel aligned
+-1.82439e+16,Promising,Others,Store,87.6,201.68,220.48000000000002,10,Channel aligned
+2.50097e+18,Potential Loyalist,Make Up,Store,87.6,198.49,258.49,8,Category and channel aligned
+4.5129e+18,Need Attention,Make Up,Store,87.6,166.89,246.89,11,Category and channel aligned
+-5.93282e+18,At Risk,Mixed Basket (Skincare + 4 others),Store,87.5,1360.47,1360.47,160,Channel aligned
+3.07792e+18,About to Sleep,Mixed Basket (Make Up + 9 others),Store,87.5,1302.89,1302.89,280,Channel aligned
+7.96646e+18,Champions,Skincare,Store,87.5,945.5699999999999,843.28,18,Channel aligned
+2.0364e+18,Champions,Skincare,Store,87.5,871.84,724.95,8,Channel aligned
+-5.11408e+18,Champions,Fragrance,Estore,87.5,800.99,783.15,3,New pattern to test
+9.35863e+17,At Risk,Make Up,Store,87.5,723.27,679.09,13,Category and channel aligned
+5.38025e+18,Champions,Make Up,Store,87.5,700.13,685.14,12,Category and channel aligned
+7.91594e+18,Loyal,Make Up,Store,87.5,698.37,738.57,2,Category and channel aligned
+9.4903e+17,Promising,Fragrance,Estore,87.5,683.89,683.89,72,New pattern to test
+8.01758e+18,Champions,Make Up,Estore,87.5,615.28,578.3299999999999,6,Category aligned
+-8.23347e+18,Loyal,Make Up,Store,87.5,570.28,564.8,7,Category and channel aligned
+-2.06653e+18,Loyal,Skincare,Store,87.5,564.16,570.41,34,Channel aligned
+8.91753e+18,Recent,Fragrance,Store,87.5,545.87,533.49,2,Channel aligned
+-7.29796e+18,About to Sleep,Skincare,Store,87.5,462.91999999999996,434.12999999999994,15,Channel aligned
+6.29231e+17,Recent,Fragrance,Estore,87.5,439.03,502.80999999999995,30,New pattern to test
+-2.31118e+18,Loyal,Fragrance,Estore,87.5,368.57,468.57,8,New pattern to test
+3.9596e+18,Recent,Make Up,Store,87.5,322.99,270.49,50,Category and channel aligned
+-2.93525e+18,Recent,Skincare,Store,87.5,299.56,241.73000000000002,124,Channel aligned
+-1.68252e+18,Recent,Skincare,Store,87.5,221.75,234.05,42,Channel aligned
+-4.07447e+18,Potential Loyalist,Make Up,Store,87.5,170.04000000000002,243.09000000000003,44,Category and channel aligned
+-4.58079e+18,About to Sleep,Fragrance,Estore,87.5,59.0,89.0,152,New pattern to test
+-8.10106e+18,Champions,Mixed Basket (Others + 8 others),Store,87.4,1235.58,1135.08,301,Channel aligned
+-8.75837e+18,Champions,Make Up,Store,87.4,852.7,814.0300000000001,9,Category and channel aligned
+6.13468e+18,At Risk,Mixed Basket (Haircare + 21 others),Store,87.4,851.3199999999999,819.4399999999999,356,Channel aligned
+-5.50588e+18,Champions,Skincare,Store,87.4,804.3299999999999,702.0899999999999,33,Channel aligned
+-1.2586e+18,Champions,Mixed Basket (Skincare + 9 others),Estore,87.4,794.77,822.17,20,New pattern to test
+4.36534e+18,Champions,Make Up,Store,87.4,783.41,765.3199999999999,32,Category and channel aligned
+-9.21556e+18,Champions,Skincare,Estore,87.4,782.0699999999999,748.3799999999999,4,New pattern to test
+3.49554e+18,Champions,Skincare,Estore,87.4,711.82,719.9300000000001,2,New pattern to test
+4.86871e+18,Recent,Fragrance,Store,87.4,667.35,511.82000000000005,45,Channel aligned
+7.69446e+18,Loyal,Mixed Basket (Make Up + 1 others),Estore,87.4,542.95,519.38,12,New pattern to test
+8.958e+18,Recent,Mixed Basket (Make Up + 2 others),Estore,87.4,453.24,377.95000000000005,20,New pattern to test
+5.82446e+18,Recent,Skincare,Store,87.4,419.78,494.58,11,Channel aligned
+3.88584e+18,Loyal,Skincare,Estore,87.4,343.49,353.82,9,New pattern to test
+-2.37532e+18,Recent,Others,Store,87.4,301.0,410.03,19,Channel aligned
+-1.85895e+18,Loyal,Make Up,Estore,87.4,291.51,258.33,207,Category aligned
+-3.66458e+17,Need Attention,Make Up,Store,87.4,173.95,273.95,1,Category and channel aligned
+-5.16865e+18,Need Attention,Make Up,Estore,87.4,142.9,181.9,116,Category aligned
+7.4008e+18,About to Sleep,Make Up,Store,87.4,120.97,200.97,11,Category and channel aligned
+5.44227e+18,About to Sleep,Make Up,Store,87.4,25.59,43.19,109,Category and channel aligned
+7.64659e+18,Loyal,Make Up,Store,87.3,1432.99,1826.3000000000002,16,Category and channel aligned
+-6.60886e+18,Champions,Make Up,Store,87.3,1334.81,1190.9499999999998,23,Category and channel aligned
+8.82576e+18,Promising,Mixed Basket (Haircare + 5 others),Store,87.3,990.9699999999999,990.9699999999999,201,Channel aligned
+-8.07911e+18,Champions,Make Up,Estore,87.3,863.59,727.03,0,Category aligned
+5.15706e+17,Champions,Make Up,Store,87.3,843.17,793.91,9,Category and channel aligned
+-4.03658e+18,Champions,Make Up,Store,87.3,798.66,717.39,4,Category and channel aligned
+7.62381e+17,Champions,Make Up,Store,87.3,784.44,749.6600000000001,9,Category and channel aligned
+-4.79352e+18,Champions,Fragrance,Store,87.3,777.72,672.6800000000001,4,Channel aligned
+4.79674e+18,Champions,Make Up,Store,87.3,716.01,724.37,15,Category and channel aligned
+-6.9227e+18,Champions,Make Up,Store,87.3,647.31,583.55,11,Category and channel aligned
+5.69496e+18,Loyal,Make Up,Store,87.3,573.7,542.2700000000001,5,Category and channel aligned
+-4.5758e+18,Loyal,Haircare,Store,87.3,546.96,527.63,19,Channel aligned
+7.18878e+18,Promising,Skincare,Store,87.3,428.18,478.18,26,Channel aligned
+5.48351e+18,Need Attention,Fragrance,Store,87.3,299.24,467.49,2,Channel aligned
+-2.26995e+18,Recent,Make Up,Store,87.3,288.86,363.86,9,Category and channel aligned
+-8.57769e+18,Recent,Fragrance,Estore,87.3,258.62,223.89,240,New pattern to test
+-1.47092e+18,Promising,Mixed Basket (Others + 1 others),Store,87.3,253.70999999999998,337.46,23,Channel aligned
+-2.3194e+18,Recent,Mixed Basket (Skincare + 2 others),Store,87.3,199.86,299.86,77,Channel aligned
+-7.21757e+18,Need Attention,Mixed Basket (Skincare + 1 others),Store,87.3,153.49,180.59,2,Channel aligned
+-5.52759e+18,At Risk,Mixed Basket (Skincare + 15 others),Store,87.2,926.9100000000001,926.9100000000001,129,Channel aligned
+-3.44374e+18,Champions,Make Up,Store,87.2,826.61,776.26,109,Category and channel aligned
+-1.76295e+18,Champions,Make Up,Store,87.2,811.39,754.91,5,Category and channel aligned
+-6.51424e+18,Champions,Make Up,Store,87.2,769.2,739.9200000000001,10,Category and channel aligned
+2.45598e+18,Champions,Make Up,Estore,87.2,723.22,625.57,1,Category aligned
+-6.22812e+18,Champions,Skincare,Estore,87.2,711.01,678.01,52,New pattern to test
+4.77055e+18,About to Sleep,Mixed Basket (Skincare + 11 others),Store,87.2,616.87,616.87,169,Channel aligned
+2.56516e+18,Loyal,Others,Store,87.2,526.1700000000001,498.87000000000006,38,Channel aligned
+2.5641e+18,Loyal,Skincare,Store,87.2,465.66,453.66,4,Channel aligned
+1.56013e+18,Recent,Others,Store,87.2,339.75,465.55,4,Channel aligned
+-3.4696e+18,Recent,Fragrance,Store,87.2,239.45,289.45,12,Channel aligned
+1.31191e+18,Recent,Make Up,Store,87.2,220.62,214.37,23,Category and channel aligned
+-4.50685e+18,Need Attention,Skincare,Store,87.2,164.98000000000002,229.98000000000002,2,Channel aligned
+6.11949e+18,Need Attention,Make Up,Store,87.2,142.63,173.47,30,Category and channel aligned
+6.06291e+18,About to Sleep,Mixed Basket (Skincare + 1 others),Store,87.2,70.99,115.99,21,Channel aligned
+8.06539e+18,At Risk,Mixed Basket (Skincare + 8 others),Store,87.1,1011.39,991.39,255,Channel aligned
+2.6575e+18,Champions,Skincare,Estore,87.1,980.38,858.44,6,New pattern to test
+4.82927e+18,At Risk,Mixed Basket (Make Up + 4 others),Store,87.1,805.96,805.96,97,Channel aligned
+-5.62216e+18,Champions,Skincare,Estore,87.1,770.04,663.7099999999999,10,New pattern to test
+-5.64901e+18,Loyal,Make Up,Store,87.1,716.23,1023.53,86,Category and channel aligned
+1.49088e+18,Loyal,Mixed Basket (Others + 1 others),Store,87.1,651.5500000000001,592.4000000000001,1,Channel aligned
+5.94695e+18,Loyal,Make Up,Store,87.1,616.09,607.86,3,Category and channel aligned
+3.57892e+18,Champions,Haircare,Estore,87.1,601.37,559.95,22,New pattern to test
+5.40427e+18,At Risk,Mixed Basket (Others + 8 others),Store,87.1,584.89,579.89,101,Channel aligned
+-1.4886e+18,About to Sleep,Mixed Basket (Haircare + 14 others),Store,87.1,582.09,582.09,74,Channel aligned
+5.84372e+18,Loyal,Make Up,Store,87.1,555.78,554.98,9,Category and channel aligned
+-5.66048e+18,Loyal,Make Up,Store,87.1,461.29,655.54,2,Category and channel aligned
+-2.92559e+18,Champions,Make Up,Estore,87.1,374.24,306.73,8,Category aligned
+-4.801e+18,Recent,Make Up,Estore,87.1,302.89,302.89,152,Category aligned
+3.62625e+18,Loyal,Make Up,Store,87.1,257.86,220.87,22,Category and channel aligned
+-5.70014e+18,Potential Loyalist,Others,Store,87.1,252.93,311.93,44,Channel aligned
+-7.16924e+18,Potential Loyalist,Make Up,Store,87.1,229.74,255.49,30,Category and channel aligned
+-4.62761e+18,Recent,Others,Store,87.1,220.59,310.23,8,Channel aligned
+-2.14951e+18,About to Sleep,Mixed Basket (Skincare + 3 others),Store,87.1,211.93,311.93,74,Channel aligned
+3.22982e+18,At Risk,Fragrance,Estore,87.1,207.5,219.1,30,New pattern to test
+7.76038e+18,Potential Loyalist,Make Up,Store,87.1,207.07,189.17,24,Category and channel aligned
+3.65345e+18,Recent,Mixed Basket (Make Up + 1 others),Store,87.1,200.95,200.95,21,Channel aligned
+-7.95966e+18,Potential Loyalist,Fragrance,Estore,87.1,145.69,216.44,173,New pattern to test
+6.55708e+18,Loyal,Make Up,Store,87.1,137.83999999999997,221.18999999999997,62,Category and channel aligned
+-3.41988e+18,Potential Loyalist,Skincare,Store,87.1,83.9,133.9,132,Channel aligned
+-5.00359e+18,Loyal,Make Up,Store,87.0,1170.94,1042.31,25,Category and channel aligned
+-7.86093e+18,Champions,Make Up,Estore,87.0,1075.12,959.5499999999998,4,Category aligned
+7.47435e+18,Champions,Haircare,Estore,87.0,983.31,957.42,13,New pattern to test
+8.73101e+18,Champions,Fragrance,Estore,87.0,929.72,829.1600000000001,0,New pattern to test
+8.00762e+18,Champions,Skincare,Store,87.0,891.33,789.73,1,Channel aligned
+-2.8119e+18,Champions,Make Up,Store,87.0,844.48,759.96,16,Category and channel aligned
+6.11713e+18,Champions,Skincare,Store,87.0,804.01,764.31,4,Channel aligned
+-7.65315e+18,Promising,Skincare,Store,87.0,773.18,773.18,258,Channel aligned
+3.87207e+18,Champions,Make Up,Store,87.0,750.67,641.89,32,Category and channel aligned
+-6.62528e+17,Champions,Skincare,Estore,87.0,727.84,721.23,31,New pattern to test
+-2.78068e+18,Champions,Mixed Basket (Skincare + 2 others),Estore,87.0,708.15,668.11,211,New pattern to test
+2.31973e+18,Champions,Make Up,Store,87.0,701.39,620.69,31,Category and channel aligned
+7.1961e+18,Champions,Others,Store,87.0,661.58,628.27,139,Channel aligned
+-7.85568e+18,At Risk,Mixed Basket (Fragrance + 3 others),Store,87.0,606.66,601.67,181,Channel aligned
+2.01866e+18,Champions,Mixed Basket (Skincare + 2 others),Store,87.0,603.32,541.1700000000001,17,Channel aligned
+-7.93299e+18,Recent,Fragrance,Store,87.0,535.0,681.0,27,Channel aligned
+1.00443e+18,Loyal,Make Up,Estore,87.0,476.4,492.9,1,Category aligned
+7.17782e+18,Loyal,Skincare,Store,87.0,473.53999999999996,475.84,3,Channel aligned
+-5.4337e+18,Recent,Skincare,Store,87.0,346.44,534.94,83,Channel aligned
+7.96598e+18,Recent,Make Up,Store,87.0,196.47,256.47,3,Category and channel aligned
+3.20139e+18,Recent,Others,Store,87.0,174.0,274.0,197,Channel aligned
+8.43936e+18,About to Sleep,Others,Store,87.0,141.99,221.99,21,Channel aligned
+4.5869e+18,About to Sleep,Others,Store,87.0,47.5,77.5,60,Channel aligned
+-2.75119e+18,Recent,Fragrance,Store,86.9,1249.18,1031.0900000000001,13,Channel aligned
+2.9864e+18,Champions,Mixed Basket (Make Up + 4 others),Estore,86.9,940.2,889.45,80,New pattern to test
+5.51975e+17,Champions,Skincare,Store,86.9,927.52,922.18,4,Channel aligned
+-2.09909e+18,Champions,Make Up,Store,86.9,863.37,769.58,0,Category and channel aligned
+3.60663e+18,Champions,Make Up,Store,86.9,778.28,670.38,28,Category and channel aligned
+2.94701e+17,Champions,Make Up,Store,86.9,766.44,678.96,11,Category and channel aligned
+-8.24745e+18,Champions,Haircare,Store,86.9,743.94,613.74,14,Channel aligned
+4.57797e+18,Loyal,Fragrance,Store,86.9,735.53,715.52,33,Channel aligned
+4.09537e+18,Champions,Haircare,Store,86.9,696.11,607.13,36,Channel aligned
+6.2944e+18,Champions,Make Up,Store,86.9,652.87,632.67,48,Category and channel aligned
+6.25062e+18,Loyal,Skincare,Store,86.9,637.86,586.12,13,Channel aligned
+3.24588e+18,Champions,Mixed Basket (Make Up + 4 others),Store,86.9,541.5899999999999,532.1199999999999,14,Channel aligned
+-3.00459e+18,Champions,Haircare,Store,86.9,474.85,508.08000000000004,204,Channel aligned
+7.34179e+18,Loyal,Others,Store,86.9,471.97,444.57000000000005,39,Channel aligned
+3.31777e+18,Loyal,Skincare,Estore,86.9,259.43,207.93,121,New pattern to test
+-2.4779e+18,Potential Loyalist,Make Up,Store,86.9,231.3,214.75,31,Category and channel aligned
+6.60711e+18,About to Sleep,Skincare,Store,86.9,224.04999999999998,185.24999999999997,14,Channel aligned
+8.1567e+18,About to Sleep,Others,Store,86.9,93.99,153.99,98,Channel aligned
+-6.47742e+18,About to Sleep,Others,Store,86.9,41.99,71.99000000000001,5,Channel aligned
+8.42176e+18,At Risk,Mixed Basket (Make Up + 5 others),Store,86.8,916.6899999999999,846.6899999999999,257,Channel aligned
+2.58002e+18,Champions,Make Up,Store,86.8,837.14,758.17,111,Category and channel aligned
+-6.50464e+18,Champions,Make Up,Store,86.8,796.25,666.1,4,Category and channel aligned
+-4.77909e+18,Champions,Skincare,Estore,86.8,784.62,598.9100000000001,12,New pattern to test
+-8.67087e+18,Champions,Make Up,Store,86.8,767.52,698.17,29,Category and channel aligned
+1.31055e+18,Champions,Skincare,Store,86.8,702.84,570.6700000000001,22,Channel aligned
+-3.92771e+18,Champions,Make Up,Store,86.8,663.13,551.38,1,Category and channel aligned
+-1.6591e+18,Champions,Make Up,Store,86.8,629.23,466.98,32,Category and channel aligned
+6.59947e+18,Champions,Skincare,Estore,86.8,603.5,542.43,65,New pattern to test
+1.24573e+18,Champions,Make Up,Store,86.8,601.37,518.56,67,Category and channel aligned
+-8.46761e+18,Champions,Skincare,Store,86.8,593.59,569.5400000000001,78,Channel aligned
+2.95148e+18,Recent,Mixed Basket (Make Up + 2 others),Estore,86.8,497.40999999999997,453.56999999999994,54,New pattern to test
+3.50942e+18,Recent,Mixed Basket (Skincare + 7 others),Store,86.8,461.03,476.34999999999997,22,Channel aligned
+8.81821e+17,Promising,Fragrance,Store,86.8,401.56,569.63,0,Channel aligned
+-5.16873e+18,Potential Loyalist,Mixed Basket (Skincare + 2 others),Store,86.8,319.76,266.15999999999997,53,Channel aligned
+-6.63908e+18,Loyal,Fragrance,Store,86.8,305.04,290.69,5,Channel aligned
+9.61269e+17,Promising,Skincare,Estore,86.8,255.91,204.86,79,New pattern to test
+-4.87186e+18,Potential Loyalist,Skincare,Store,86.8,235.98,355.98,10,Channel aligned
+-1.31623e+18,Recent,Mixed Basket (Skincare + 1 others),Estore,86.8,197.76999999999998,194.32999999999998,203,New pattern to test
+-8.70843e+18,Potential Loyalist,Mixed Basket (Make Up + 2 others),Store,86.8,189.25,286.55,26,Channel aligned
+-4.33414e+18,Can't Lose,Make Up,Store,86.8,174.15,264.35,8,Category and channel aligned
+4.71003e+18,About to Sleep,Mixed Basket (Skincare + 1 others),Store,86.8,45.980000000000004,75.98,32,Channel aligned
+-1.707e+18,Loyal,Mixed Basket (Fragrance + 3 others),Estore,86.7,1916.07,1457.8999999999999,4,New pattern to test
+-4.14763e+18,At Risk,Mixed Basket (Skincare + 14 others),Store,86.7,1262.82,1262.82,144,Channel aligned
+4.73707e+18,Champions,Fragrance,Store,86.7,878.12,741.47,28,Channel aligned
+8.44898e+18,Champions,Skincare,Store,86.7,783.91,639.91,31,Channel aligned
+-6.80302e+18,Champions,Make Up,Store,86.7,689.23,574.64,19,Category and channel aligned
+2.31503e+18,Champions,Skincare,Store,86.7,672.42,620.3499999999999,7,Channel aligned
+-7.50573e+18,Champions,Make Up,Store,86.7,661.56,679.25,9,Category and channel aligned
+7.56582e+18,Loyal,Make Up,Store,86.7,612.1700000000001,586.07,158,Category and channel aligned
+6.04833e+18,Champions,Mixed Basket (Make Up + 6 others),Store,86.7,605.11,564.54,41,Channel aligned
+7.81393e+18,Loyal,Skincare,Store,86.7,590.9200000000001,555.5200000000001,13,Channel aligned
+-7.98412e+18,Loyal,Make Up,Store,86.7,584.61,762.02,2,Category and channel aligned
+-2.99919e+18,Loyal,Skincare,Store,86.7,550.8199999999999,527.28,13,Channel aligned
+5.83701e+18,Loyal,Skincare,Store,86.7,508.57,495.08,10,Channel aligned
+-8.64822e+18,Loyal,Skincare,Store,86.7,504.73,484.43,7,Channel aligned
+2.82792e+17,Loyal,Mixed Basket (Make Up + 3 others),Store,86.7,416.98,455.78000000000003,7,Channel aligned
+-5.34678e+18,Recent,Make Up,Store,86.7,402.94,374.09,20,Category and channel aligned
+-1.14545e+18,Need Attention,Mixed Basket (Others + 1 others),Store,86.7,402.81,294.62,27,Channel aligned
+2.28133e+18,Loyal,Others,Store,86.7,349.63,388.74,147,Channel aligned
+9.01255e+18,Loyal,Make Up,Store,86.7,318.46,373.76,10,Category and channel aligned
+-4.44771e+18,At Risk,Mixed Basket (Make Up + 3 others),Estore,86.7,107.57,143.17,26,New pattern to test
+-3.21996e+18,Loyal,Mixed Basket (Make Up + 1 others),Store,86.6,1611.5600000000002,1603.3600000000001,5,Channel aligned
+-7.73866e+18,Loyal,Make Up,Store,86.6,790.15,817.72,31,Category and channel aligned
+-3.52538e+18,Champions,Make Up,Store,86.6,780.6,732.9300000000001,13,Category and channel aligned
+1.29952e+18,Champions,Skincare,Estore,86.6,769.52,745.4399999999999,26,New pattern to test
+-5.6126e+18,Champions,Fragrance,Store,86.6,764.05,683.91,8,Channel aligned
+8.4425e+18,Loyal,Make Up,Store,86.6,751.69,658.3900000000001,8,Category and channel aligned
+-5.46601e+18,Champions,Skincare,Store,86.6,735.99,656.86,17,Channel aligned
+1.52386e+18,Champions,Skincare,Store,86.6,723.78,644.91,8,Channel aligned
+8.31053e+18,At Risk,Mixed Basket (Make Up + 2 others),Store,86.6,722.35,560.82,8,Channel aligned
+-7.32778e+18,Champions,Mixed Basket (Skincare + 1 others),Estore,86.6,711.69,686.7800000000001,16,New pattern to test
+9.104e+18,Champions,Make Up,Estore,86.6,705.2,636.83,1,Category aligned
+-5.84142e+18,Champions,Make Up,Store,86.6,674.9,657.7099999999999,8,Category and channel aligned
+-2.897e+18,Champions,Make Up,Store,86.6,631.5600000000001,576.9300000000001,1,Category and channel aligned
+-1.51208e+18,Recent,Mixed Basket (Skincare + 3 others),Store,86.6,612.3,795.6999999999999,7,Channel aligned
+-7.10757e+18,Champions,Make Up,Estore,86.6,604.83,685.6800000000001,137,Category aligned
+-1.63279e+18,Loyal,Mixed Basket (Haircare + 2 others),Store,86.6,568.2,539.12,11,Channel aligned
+-4.98229e+18,Loyal,Make Up,Store,86.6,559.06,662.3299999999999,9,Category and channel aligned
+-2.96267e+18,Loyal,Make Up,Store,86.6,555.76,575.67,39,Category and channel aligned
+-2.69342e+18,Recent,Mixed Basket (Fragrance + 3 others),Estore,86.6,497.93,465.19,2,New pattern to test
+3.74652e+18,Loyal,Make Up,Estore,86.6,431.15,424.46999999999997,30,Category aligned
+-2.22214e+18,Loyal,Make Up,Store,86.6,418.61,405.91,15,Category and channel aligned
+-8.61258e+18,Recent,Fragrance,Estore,86.6,326.25,242.5,165,New pattern to test
+3.0494e+18,Promising,Make Up,Estore,86.6,317.85,343.12,5,Category aligned
+-1.14049e+18,Recent,Mixed Basket (Make Up + 3 others),Store,86.6,296.45,357.95,176,Channel aligned
+-8.78375e+18,Potential Loyalist,Make Up,Store,86.6,238.47,334.97,4,Category and channel aligned
+5.71979e+18,Promising,Make Up,Store,86.6,237.60000000000002,206.00000000000003,42,Category and channel aligned
+-3.21746e+18,Need Attention,Fragrance,Estore,86.6,216.19,288.39,9,New pattern to test
+-8.2471e+18,Need Attention,Skincare,Store,86.6,206.24,211.54000000000002,31,Channel aligned
+-4.3288e+18,Need Attention,Mixed Basket (Skincare + 1 others),Store,86.6,160.89000000000001,220.89000000000001,18,Channel aligned
+-2.31092e+18,Potential Loyalist,Make Up,Store,86.6,150.62,196.37,14,Category and channel aligned
+7.75497e+18,Need Attention,Others,Store,86.6,99.98,149.98000000000002,228,Channel aligned
+8.95018e+18,Recent,Mixed Basket (Haircare + 3 others),Store,86.5,1645.39,1254.9900000000002,116,Channel aligned
+1.13195e+18,Champions,Skincare,Store,86.5,990.3,926.8299999999999,4,Channel aligned
+-9.16381e+18,Champions,Mixed Basket (Make Up + 3 others),Estore,86.5,904.3499999999999,763.1299999999999,5,New pattern to test
+-6.18712e+18,Champions,Make Up,Estore,86.5,886.01,863.65,46,Category aligned
+-5.38138e+18,Champions,Mixed Basket (Make Up + 4 others),Store,86.5,883.16,746.65,11,Channel aligned
+4.40707e+18,Recent,Make Up,Store,86.5,878.24,829.91,15,Category and channel aligned
+1.44238e+18,Champions,Make Up,Estore,86.5,740.96,649.3900000000001,1,Category aligned
+1.4637e+18,At Risk,Mixed Basket (Skincare + 10 others),Store,86.5,720.56,705.56,282,Channel aligned
+4.97357e+18,Champions,Mixed Basket (Skincare + 3 others),Store,86.5,701.4200000000001,673.6500000000001,8,Channel aligned
+-8.17128e+18,Champions,Fragrance,Store,86.5,699.44,721.0,15,Channel aligned
+-6.29695e+18,Champions,Haircare,Store,86.5,673.35,639.14,31,Channel aligned
+-3.594e+18,Champions,Fragrance,Estore,86.5,670.14,531.19,2,New pattern to test
+7.32284e+18,Promising,Mixed Basket (Haircare + 1 others),Store,86.5,664.06,644.6099999999999,37,Channel aligned
+1.07105e+18,Champions,Make Up,Store,86.5,638.23,532.69,9,Category and channel aligned
+-1.16782e+18,At Risk,Mixed Basket (Make Up + 10 others),Store,86.5,593.9,593.9,134,Channel aligned
+8.35246e+18,Recent,Make Up,Store,86.5,559.37,533.87,13,Category and channel aligned
+4.60106e+18,Loyal,Others,Store,86.5,507.0,482.63,3,Channel aligned
+-3.53182e+18,Promising,Skincare,Store,86.5,468.70000000000005,476.27000000000004,13,Channel aligned
+2.55344e+17,Loyal,Mixed Basket (Skincare + 2 others),Estore,86.5,380.87,500.87,8,New pattern to test
+4.11942e+18,About to Sleep,Haircare,Estore,86.5,318.99,258.99,228,New pattern to test
+3.41719e+18,Need Attention,Fragrance,Store,86.5,300.72,474.47,15,Channel aligned
+1.4344e+18,Potential Loyalist,Make Up,Store,86.5,290.44,368.94,0,Category and channel aligned
+3.74863e+18,Potential Loyalist,Make Up,Store,86.5,271.72,368.53000000000003,8,Category and channel aligned
+2.46583e+18,Potential Loyalist,Make Up,Estore,86.5,265.48,305.28000000000003,9,Category aligned
+1.28414e+18,Loyal,Make Up,Store,86.5,227.39,200.79,46,Category and channel aligned
+-1.37202e+18,Potential Loyalist,Skincare,Estore,86.5,222.5,250.53,12,New pattern to test
+-4.14255e+18,Potential Loyalist,Others,Store,86.5,211.88,277.88,8,Channel aligned
+3.38517e+18,Promising,Others,Store,86.5,202.0,282.0,4,Channel aligned
+6.79248e+18,Promising,Make Up,Estore,86.5,183.95,183.95,8,Category aligned
+8.78358e+18,Recent,Others,Store,86.5,173.19,223.19,209,Channel aligned
+6.04467e+17,About to Sleep,Make Up,Estore,86.5,99.9,159.9,11,Category aligned
+3.74398e+18,About to Sleep,Make Up,Store,86.5,89.9,139.9,153,Category and channel aligned
+-2.76458e+18,Need Attention,Make Up,Store,86.5,88.0,138.0,208,Category and channel aligned
+3.14045e+18,About to Sleep,Mixed Basket (Skincare + 3 others),Estore,86.5,62.96,92.96000000000001,144,New pattern to test
+-8.28868e+18,Champions,Make Up,Store,86.4,987.37,652.41,76,Category and channel aligned
+-5.39668e+18,Champions,Make Up,Estore,86.4,865.65,746.77,2,Category aligned
+4.15517e+18,Champions,Skincare,Estore,86.4,611.33,550.27,8,New pattern to test
+-6.4268e+17,Loyal,Make Up,Store,86.4,545.34,475.46000000000004,34,Category and channel aligned
+3.38165e+18,Loyal,Make Up,Store,86.4,507.34,492.96,1,Category and channel aligned
+1.60281e+18,Loyal,Make Up,Estore,86.4,506.75,494.71000000000004,0,Category aligned
+-6.26881e+18,Champions,Skincare,Store,86.4,480.87,462.57,68,Channel aligned
+-6.92211e+18,Loyal,Skincare,Estore,86.4,470.04,416.29,14,New pattern to test
+6.89195e+18,At Risk,Skincare,Estore,86.4,393.45,380.4,8,New pattern to test
+3.91626e+18,Loyal,Fragrance,Store,86.4,361.4,354.40999999999997,11,Channel aligned
+-3.75276e+18,Recent,Make Up,Store,86.4,308.35,252.75000000000003,35,Category and channel aligned
+-7.36842e+18,Promising,Haircare,Store,86.4,294.88,444.88,16,Channel aligned
+3.45139e+18,Potential Loyalist,Make Up,Store,86.4,261.04,332.46000000000004,8,Category and channel aligned
+-8.61479e+18,Recent,Skincare,Store,86.4,249.96,332.96000000000004,252,Channel aligned
+-8.6594e+18,Potential Loyalist,Make Up,Store,86.4,232.98000000000002,332.98,142,Category and channel aligned
+-6.6535e+18,Recent,Skincare,Estore,86.4,230.82,220.84,271,New pattern to test
+-1.06147e+18,Potential Loyalist,Make Up,Store,86.4,204.01,187.76999999999998,77,Category and channel aligned
+-4.80144e+18,Need Attention,Fragrance,Store,86.4,172.75,248.5,17,Channel aligned
+-8.83438e+18,Potential Loyalist,Mixed Basket (Skincare + 1 others),Store,86.4,106.88,156.88,23,Channel aligned
+7.68496e+18,About to Sleep,Make Up,Store,86.4,89.9,139.9,336,Category and channel aligned
+2.47418e+18,Champions,Make Up,Store,86.3,835.36,700.03,4,Category and channel aligned
+2.84775e+18,Champions,Mixed Basket (Make Up + 1 others),Estore,86.3,826.21,789.73,24,New pattern to test
+-1.81137e+18,At Risk,Mixed Basket (Make Up + 9 others),Store,86.3,799.0,799.0,317,Channel aligned
+-1.85521e+18,Champions,Skincare,Estore,86.3,771.9799999999999,705.9899999999999,15,New pattern to test
+-1.07722e+18,Champions,Make Up,Store,86.3,755.06,732.17,10,Category and channel aligned
+5.5042e+18,Champions,Mixed Basket (Skincare + 1 others),Store,86.3,752.21,697.86,5,Channel aligned
+8.2555e+18,Champions,Skincare,Store,86.3,733.54,573.8399999999999,26,Channel aligned
+-6.16059e+18,Champions,Skincare,Store,86.3,644.41,561.52,31,Channel aligned
+-4.41446e+18,Champions,Skincare,Store,86.3,640.86,589.4200000000001,25,Channel aligned
+8.43313e+18,Champions,Fragrance,Estore,86.3,637.78,461.68999999999994,13,New pattern to test
+-3.90591e+18,Champions,Make Up,Store,86.3,634.0699999999999,558.8799999999999,11,Category and channel aligned
+5.61911e+18,Champions,Haircare,Store,86.3,626.61,496.78,9,Channel aligned
+-4.52503e+18,Loyal,Mixed Basket (Make Up + 2 others),Store,86.3,585.48,520.13,21,Channel aligned
+5.97752e+18,Champions,Make Up,Estore,86.3,561.29,561.64,161,Category aligned
+7.82344e+18,Loyal,Make Up,Estore,86.3,548.01,529.48,23,Category aligned
+1.67066e+18,Loyal,Skincare,Store,86.3,545.94,424.12000000000006,33,Channel aligned
+-1.01996e+18,At Risk,Mixed Basket (Make Up + 9 others),Store,86.3,540.7,540.7,174,Channel aligned
+5.15477e+18,Loyal,Make Up,Store,86.3,538.94,508.34000000000003,26,Category and channel aligned
+3.26775e+18,At Risk,Mixed Basket (Skincare + 4 others),Store,86.3,528.26,528.26,241,Channel aligned
+-3.69936e+18,At Risk,Mixed Basket (Skincare + 3 others),Store,86.3,527.46,512.47,207,Channel aligned
+-3.89451e+18,Loyal,Skincare,Store,86.3,483.64,415.62,50,Channel aligned
+-9.15642e+18,Loyal,Make Up,Store,86.3,420.1,383.76,2,Category and channel aligned
+-7.27845e+18,Potential Loyalist,Make Up,Store,86.3,397.5,519.0699999999999,21,Category and channel aligned
+3.41527e+18,Recent,Make Up,Store,86.3,365.82,285.27,26,Category and channel aligned
+-4.47278e+18,Recent,Skincare,Estore,86.3,340.81,370.93,0,New pattern to test
+8.04241e+18,Promising,Skincare,Store,86.3,327.8,162.83,334,Channel aligned
+-1.52203e+18,Need Attention,Fragrance,Store,86.3,278.70000000000005,271.6,25,Channel aligned
+3.4668e+18,Loyal,Skincare,Store,86.3,270.6,411.41,111,Channel aligned
+8.89392e+18,About to Sleep,Skincare,Store,86.3,258.18,183.38,34,Channel aligned
+7.59263e+18,Promising,Make Up,Store,86.3,251.4,214.42000000000002,42,Category and channel aligned
+6.59551e+18,Need Attention,Mixed Basket (Others + 5 others),Store,86.3,247.25,375.5,13,Channel aligned
+5.50898e+18,Recent,Mixed Basket (Make Up + 1 others),Estore,86.3,245.60000000000002,218.90000000000003,94,New pattern to test
+-3.61481e+17,Loyal,Fragrance,Estore,86.3,192.8,192.8,14,New pattern to test
+-5.03098e+18,Champions,Fragrance,Estore,86.2,2144.4,2711.26,18,New pattern to test
+-4.58434e+18,Loyal,Haircare,Store,86.2,1224.8799999999999,1620.6299999999999,8,Channel aligned
+-8.56588e+18,Champions,Skincare,Store,86.2,1089.9,1373.49,1,Channel aligned
+8.25805e+18,Champions,Make Up,Store,86.2,912.25,830.65,26,Category and channel aligned
+7.65546e+18,Champions,Skincare,Store,86.2,891.02,706.47,23,Channel aligned
+2.47956e+18,Champions,Make Up,Store,86.2,868.78,746.66,2,Category and channel aligned
+-1.69068e+18,Champions,Make Up,Store,86.2,853.38,702.66,5,Category and channel aligned
+3.62714e+18,Champions,Make Up,Store,86.2,775.84,720.26,0,Category and channel aligned
+-2.30176e+18,Champions,Others,Store,86.2,767.19,728.5,9,Channel aligned
+-2.89818e+18,Champions,Mixed Basket (Make Up + 3 others),Estore,86.2,737.0600000000001,526.4100000000001,35,New pattern to test
+6.61356e+17,Champions,Make Up,Estore,86.2,732.42,677.5899999999999,9,Category aligned
+-2.85172e+18,At Risk,Mixed Basket (Make Up + 15 others),Store,86.2,707.98,707.98,358,Channel aligned
+4.47369e+18,Champions,Make Up,Store,86.2,702.8100000000001,655.34,8,Category and channel aligned
+1.36753e+17,Champions,Skincare,Estore,86.2,689.49,628.36,9,New pattern to test
+7.49837e+18,Champions,Fragrance,Store,86.2,620.75,563.1,5,Channel aligned
+2.77218e+18,Champions,Make Up,Store,86.2,617.34,558.19,2,Category and channel aligned
+4.36104e+17,Champions,Make Up,Store,86.2,614.98,535.08,11,Category and channel aligned
+-3.38361e+18,Champions,Mixed Basket (Make Up + 2 others),Store,86.2,601.6800000000001,541.8800000000001,23,Channel aligned
+-3.50028e+18,Potential Loyalist,Fragrance,Estore,86.2,597.09,319.19000000000005,231,New pattern to test
+-4.28953e+18,Loyal,Make Up,Estore,86.2,595.81,525.4799999999999,5,Category aligned
+2.20053e+18,At Risk,Mixed Basket (Make Up + 1 others),Store,86.2,563.0,563.0,234,Channel aligned
+3.49961e+18,At Risk,Mixed Basket (Skincare + 5 others),Store,86.2,513.0,513.0,330,Channel aligned
+-5.95745e+18,Recent,Make Up,Estore,86.2,509.59000000000003,509.59000000000003,8,Category aligned
+8.65789e+18,Loyal,Make Up,Estore,86.2,485.93,508.03000000000003,8,Category aligned
+3.14779e+18,Loyal,Skincare,Store,86.2,470.65999999999997,447.61999999999995,5,Channel aligned
+3.18871e+18,Potential Loyalist,Others,Store,86.2,452.81,627.63,20,Channel aligned
+7.45174e+18,Promising,Mixed Basket (Skincare + 8 others),Store,86.2,437.73,437.73,26,Channel aligned
+2.32601e+18,Loyal,Make Up,Estore,86.2,390.78999999999996,394.28999999999996,5,Category aligned
+9.01274e+18,Recent,Make Up,Store,86.2,389.38,514.78,18,Category and channel aligned
+3.56987e+18,Promising,Fragrance,Store,86.2,185.98000000000002,185.98000000000002,4,Channel aligned
+2.10951e+18,Need Attention,Others,Store,86.2,123.9,183.9,39,Channel aligned
+2.86015e+18,About to Sleep,Fragrance,Store,86.2,69.88,99.88,15,Channel aligned
+-6.33617e+18,Champions,Make Up,Store,86.1,1275.0,1275.0,106,Category and channel aligned
+-2.68963e+18,Champions,Others,Store,86.1,876.85,1019.3,10,Channel aligned
+7.54582e+18,Champions,Fragrance,Store,86.1,843.17,619.6899999999999,99,Channel aligned
+-1.17968e+18,Champions,Fragrance,Store,86.1,833.46,652.07,28,Channel aligned
+-5.24411e+18,Champions,Make Up,Estore,86.1,784.76,714.42,23,Category aligned
+5.06345e+17,Champions,Make Up,Store,86.1,747.29,675.4599999999999,21,Category and channel aligned
+8.21483e+18,Champions,Make Up,Estore,86.1,745.76,621.04,7,Category aligned
+8.70883e+18,Champions,Haircare,Store,86.1,730.9,576.51,0,Channel aligned
+-5.68606e+18,Champions,Make Up,Store,86.1,722.0699999999999,635.42,33,Category and channel aligned
+-1.89796e+18,Champions,Make Up,Estore,86.1,721.36,594.96,4,Category aligned
+6.3698e+18,Champions,Haircare,Estore,86.1,696.25,677.55,23,New pattern to test
+-8.80068e+18,At Risk,Mixed Basket (Make Up + 12 others),Store,86.1,683.6899999999999,668.7199999999999,169,Channel aligned
+5.43789e+18,Loyal,Make Up,Store,86.1,646.03,647.28,7,Category and channel aligned
+4.16396e+18,Champions,Haircare,Estore,86.1,637.87,576.92,18,New pattern to test
+-1.74607e+18,Champions,Make Up,Store,86.1,607.2,552.1500000000001,5,Category and channel aligned
+7.24278e+18,Promising,Make Up,Store,86.1,575.0400000000001,552.19,12,Category and channel aligned
+6.5556e+18,Loyal,Make Up,Store,86.1,558.93,537.28,27,Category and channel aligned
+7.97731e+18,Loyal,Fragrance,Store,86.1,551.99,621.28,18,Channel aligned
+1.63177e+18,Loyal,Make Up,Estore,86.1,534.59,457.42,5,Category aligned
+5.62686e+18,Loyal,Fragrance,Store,86.1,531.78,488.03999999999996,15,Channel aligned
+-3.81543e+18,Loyal,Skincare,Store,86.1,513.85,488.52000000000004,4,Channel aligned
+-6.20491e+18,Loyal,Haircare,Estore,86.1,492.65999999999997,475.78999999999996,25,New pattern to test
+4.93366e+17,Loyal,Make Up,Store,86.1,468.18,422.27,11,Category and channel aligned
+3.74048e+18,Loyal,Mixed Basket (Skincare + 2 others),Store,86.1,444.29,376.32000000000005,30,Channel aligned
+-4.27472e+17,Loyal,Mixed Basket (Make Up + 1 others),Store,86.1,401.83,398.53,7,Channel aligned
+-4.52216e+18,Need Attention,Others,Store,86.1,361.4,348.79999999999995,31,Channel aligned
+7.39129e+18,Recent,Fragrance,Store,86.1,332.24,369.62,47,Channel aligned
+2.96919e+18,Potential Loyalist,Skincare,Store,86.1,269.9,370.02,33,Channel aligned
+-7.96195e+17,Recent,Fragrance,Estore,86.1,261.3,270.75,119,New pattern to test
+4.52074e+18,About to Sleep,Others,Estore,86.1,250.0,350.0,149,New pattern to test
+3.09194e+18,Need Attention,Mixed Basket (Skincare + 1 others),Store,86.1,213.59,189.19,1,Channel aligned
+3.17271e+18,Potential Loyalist,Fragrance,Store,86.1,203.73000000000002,179.48000000000002,30,Channel aligned
+3.34307e+18,Recent,Others,Store,86.1,183.87,243.87,17,Channel aligned
+-9.51144e+17,Need Attention,Make Up,Store,86.1,137.69,197.59,9,Category and channel aligned
+7.9457e+18,Champions,Mixed Basket (Skincare + 5 others),Estore,86.0,851.45,794.2,39,New pattern to test
+-8.10475e+18,Champions,Skincare,Store,86.0,803.35,688.85,9,Channel aligned
+-1.1788e+18,Champions,Make Up,Estore,86.0,782.6800000000001,751.46,30,Category aligned
+-2.43216e+18,Champions,Make Up,Estore,86.0,741.9000000000001,659.6000000000001,8,Category aligned
+3.30144e+18,Champions,Haircare,Estore,86.0,683.25,604.24,191,New pattern to test
+7.32533e+18,At Risk,Mixed Basket (Make Up + 8 others),Store,86.0,646.86,646.86,264,Channel aligned
+-3.19088e+18,Loyal,Fragrance,Store,86.0,579.8100000000001,499.88000000000005,36,Channel aligned
+4.50815e+18,Loyal,Mixed Basket (Make Up + 1 others),Store,86.0,579.17,497.51,16,Channel aligned
+7.88859e+18,Loyal,Make Up,Store,86.0,574.96,515.49,20,Category and channel aligned
+-9.88517e+17,Loyal,Make Up,Store,86.0,572.5,704.55,158,Category and channel aligned
+6.86183e+18,Loyal,Make Up,Store,86.0,571.86,541.54,18,Category and channel aligned
+-2.70171e+17,Promising,Mixed Basket (Not Specified + 5 others),Estore,86.0,542.89,488.64,12,New pattern to test
+5.10589e+18,Loyal,Make Up,Store,86.0,541.48,477.49,22,Category and channel aligned
+-3.95317e+18,Recent,Mixed Basket (Make Up + 2 others),Store,86.0,530.84,493.17,7,Channel aligned
+-1.3482e+18,Loyal,Make Up,Estore,86.0,503.65,613.5,21,Category aligned
+-1.07454e+18,Recent,Haircare,Store,86.0,445.8,477.1,11,Channel aligned
+-3.40226e+18,Loyal,Make Up,Store,86.0,388.28999999999996,384.68999999999994,16,Category and channel aligned
+-5.38446e+18,Need Attention,Skincare,Store,86.0,353.45,270.12,42,Channel aligned
+6.09513e+18,About to Sleep,Make Up,Store,86.0,280.23,198.06,184,Category and channel aligned
+-6.98094e+18,Promising,Make Up,Store,86.0,271.2,336.45,165,Category and channel aligned
+1.2713e+18,Need Attention,Make Up,Store,86.0,233.32999999999998,196.02999999999997,31,Category and channel aligned
+7.45874e+18,Recent,Skincare,Store,86.0,223.49,278.5,15,Channel aligned
+-1.33088e+18,Potential Loyalist,Make Up,Store,86.0,221.61,268.31,8,Category and channel aligned
+4.93523e+17,Recent,Make Up,Store,86.0,221.28,208.79,47,Category and channel aligned
+-3.15586e+18,Loyal,Mixed Basket (Others + 4 others),Store,85.9,1926.06,1514.29,20,Channel aligned
+-2.58648e+18,Champions,Make Up,Store,85.9,1102.68,1290.99,25,Category and channel aligned
+-7.83314e+18,Champions,Make Up,Store,85.9,957.77,874.77,14,Category and channel aligned
+8.12341e+18,Champions,Make Up,Store,85.9,922.45,764.6,22,Category and channel aligned
+-8.25414e+18,Champions,Make Up,Estore,85.9,844.24,726.72,16,Category aligned
+5.06091e+18,Champions,Make Up,Store,85.9,809.95,712.75,0,Category and channel aligned
+7.15215e+18,Champions,Make Up,Store,85.9,791.8199999999999,644.0699999999999,23,Category and channel aligned
+-7.36754e+18,Loyal,Haircare,Store,85.9,782.95,696.19,33,Channel aligned
+9.07805e+18,Champions,Make Up,Estore,85.9,782.15,690.8,10,Category aligned
+-1.42103e+17,Champions,Mixed Basket (Make Up + 1 others),Store,85.9,764.25,661.8,24,Channel aligned
+3.62561e+18,At Risk,Mixed Basket (Make Up + 6 others),Store,85.9,756.8,756.8,147,Channel aligned
+-7.56862e+17,Champions,Make Up,Store,85.9,722.92,633.4499999999999,0,Category and channel aligned
+-8.7231e+17,Champions,Skincare,Estore,85.9,706.8100000000001,544.9100000000001,11,New pattern to test
+-2.86751e+18,Champions,Skincare,Store,85.9,699.27,610.93,7,Channel aligned
+3.45252e+18,Champions,Skincare,Store,85.9,693.95,626.95,10,Channel aligned
+6.374e+18,Champions,Skincare,Store,85.9,678.58,631.6800000000001,11,Channel aligned
+-6.90624e+18,Loyal,Make Up,Estore,85.9,664.9599999999999,605.18,9,Category aligned
+3.84398e+18,Champions,Make Up,Store,85.9,634.37,571.18,9,Category and channel aligned
+-3.17393e+18,Promising,Make Up,Store,85.9,617.53,580.3299999999999,17,Category and channel aligned
+8.59699e+18,Recent,Make Up,Store,85.9,587.35,568.66,1,Category and channel aligned
+-4.9879e+18,Recent,Others,Estore,85.9,586.23,490.68,25,New pattern to test
+-8.75785e+18,Loyal,Make Up,Store,85.9,584.09,477.95000000000005,8,Category and channel aligned
+-7.13209e+17,Loyal,Make Up,Store,85.9,580.05,494.36999999999995,4,Category and channel aligned
+-8.0587e+18,Recent,Skincare,Store,85.9,574.67,504.61999999999995,4,Channel aligned
+-3.8021e+18,Loyal,Skincare,Store,85.9,571.4,539.1,123,Channel aligned
+-5.62498e+18,Loyal,Skincare,Estore,85.9,563.01,478.77,25,New pattern to test
+-1.85588e+18,Loyal,Skincare,Estore,85.9,522.13,461.68,15,New pattern to test
+4.68575e+18,Loyal,Skincare,Estore,85.9,516.09,543.34,5,New pattern to test
+3.50998e+18,Loyal,Skincare,Estore,85.9,515.06,453.0799999999999,30,New pattern to test
+-6.53149e+18,Loyal,Mixed Basket (Make Up + 1 others),Estore,85.9,475.77,444.16999999999996,16,New pattern to test
+-5.01257e+18,Loyal,Make Up,Store,85.9,460.56,425.21,92,Category and channel aligned
+2.5319e+18,Loyal,Skincare,Store,85.9,432.46,377.01,42,Channel aligned
+-9.02483e+18,Need Attention,Fragrance,Store,85.9,412.0,712.0,14,Channel aligned
+2.71781e+18,Loyal,Make Up,Store,85.9,411.46999999999997,394.77,14,Category and channel aligned
+-8.69821e+18,Promising,Haircare,Estore,85.9,351.20000000000005,340.6,15,New pattern to test
+-3.74797e+18,Loyal,Fragrance,Store,85.9,328.99,410.99,114,Channel aligned
+-2.53741e+17,Loyal,Make Up,Store,85.9,283.07,338.27,163,Category and channel aligned
+-4.14015e+18,Recent,Make Up,Store,85.9,280.19,273.69,153,Category and channel aligned
+3.09061e+18,Potential Loyalist,Skincare,Store,85.9,250.15,373.35,11,Channel aligned
+6.41726e+18,Recent,Mixed Basket (Fragrance + 2 others),Store,85.9,217.2,213.39999999999998,130,Channel aligned
+-2.16327e+18,Recent,Make Up,Estore,85.9,201.07,196.39999999999998,1,Category aligned
+2.63998e+18,Recent,Others,Store,85.9,186.65,214.4,14,Channel aligned
+4.15004e+18,Recent,Make Up,Estore,85.9,185.75,211.81,39,Category aligned
+1.01483e+18,Potential Loyalist,Haircare,Estore,85.9,171.99,170.49,27,New pattern to test
+-7.696e+18,About to Sleep,Others,Store,85.9,47.980000000000004,77.98,187,Channel aligned
+6.48001e+18,Champions,Skincare,Store,85.8,1109.83,1027.25,25,Channel aligned
+6.07619e+17,Champions,Mixed Basket (Skincare + 3 others),Store,85.8,1079.16,1013.5500000000001,0,Channel aligned
+-2.46387e+18,Promising,Make Up,Store,85.8,978.4,908.01,198,Category and channel aligned
+2.24577e+17,Champions,Make Up,Store,85.8,888.3,832.81,11,Category and channel aligned
+-1.8905e+18,Champions,Fragrance,Store,85.8,831.27,698.78,28,Channel aligned
+-8.95045e+18,Champions,Skincare,Store,85.8,830.55,848.43,17,Channel aligned
+6.14714e+18,Champions,Make Up,Store,85.8,697.12,634.91,12,Category and channel aligned
+2.34966e+18,Champions,Skincare,Store,85.8,687.49,588.25,7,Channel aligned
+-4.70693e+18,Loyal,Skincare,Estore,85.8,673.87,658.14,31,New pattern to test
+3.62932e+18,Champions,Skincare,Store,85.8,671.12,590.88,31,Channel aligned
+3.16355e+18,Champions,Skincare,Estore,85.8,665.1,564.7,51,New pattern to test
+-3.87763e+18,Champions,Make Up,Store,85.8,658.54,635.0899999999999,14,Category and channel aligned
+7.40252e+17,Loyal,Make Up,Store,85.8,655.48,989.97,9,Category and channel aligned
+-7.22263e+17,Champions,Fragrance,Store,85.8,637.13,530.5,184,Channel aligned
+3.77362e+17,Champions,Skincare,Store,85.8,631.56,560.9499999999999,17,Channel aligned
+-4.06317e+18,Champions,Make Up,Estore,85.8,620.5699999999999,499.4799999999999,10,Category aligned
+-7.68741e+18,Champions,Make Up,Estore,85.8,613.38,572.99,65,Category aligned
+-4.86752e+17,Loyal,Skincare,Store,85.8,611.1,805.6,15,Channel aligned
+8.21874e+18,Recent,Make Up,Store,85.8,597.7,641.4000000000001,0,Category and channel aligned
+-1.90595e+18,Recent,Mixed Basket (Make Up + 1 others),Estore,85.8,589.48,547.09,22,New pattern to test
+-3.87415e+17,Loyal,Mixed Basket (Make Up + 1 others),Store,85.8,554.53,518.23,41,Channel aligned
+4.4192e+18,At Risk,Mixed Basket (Make Up + 5 others),Store,85.8,549.2,519.8000000000001,330,Channel aligned
+-7.44866e+18,Loyal,Skincare,Store,85.8,535.3199999999999,436.7199999999999,27,Channel aligned
+7.46448e+18,Loyal,Make Up,Store,85.8,531.99,795.09,86,Category and channel aligned
+-6.18581e+18,Recent,Make Up,Store,85.8,528.12,714.37,104,Category and channel aligned
+-8.51866e+18,Champions,Make Up,Estore,85.8,510.40999999999997,447.75,44,Category aligned
+9.16593e+18,Loyal,Make Up,Store,85.8,508.34999999999997,677.8499999999999,53,Category and channel aligned
+-4.42852e+18,At Risk,Mixed Basket (Make Up + 5 others),Store,85.8,496.83,437.65999999999997,354,Channel aligned
+4.63914e+18,Promising,Mixed Basket (Make Up + 2 others),Store,85.8,461.4,461.4,237,Channel aligned
+-6.36093e+18,Loyal,Mixed Basket (Make Up + 1 others),Store,85.8,455.75,427.25,1,Channel aligned
+-1.53853e+18,Loyal,Fragrance,Store,85.8,430.4,420.62,59,Channel aligned
+1.28996e+18,Loyal,Mixed Basket (Make Up + 1 others),Store,85.8,343.32,415.41999999999996,10,Channel aligned
+-1.55423e+17,Loyal,Make Up,Store,85.8,339.3,389.2,10,Category and channel aligned
+2.70774e+17,Potential Loyalist,Fragrance,Estore,85.8,303.49,354.99,22,New pattern to test
+7.09606e+18,Recent,Make Up,Store,85.8,300.4,408.4,28,Category and channel aligned
+3.15505e+18,Need Attention,Skincare,Store,85.8,296.16,319.36,19,Channel aligned
+-3.6956e+18,Loyal,Skincare,Store,85.8,251.95000000000002,301.95000000000005,246,Channel aligned
+8.30345e+18,Potential Loyalist,Skincare,Store,85.8,228.29,282.69,23,Channel aligned
+5.75446e+18,Need Attention,Mixed Basket (Fragrance + 1 others),Store,85.8,218.74,310.49,32,Channel aligned
+7.69577e+18,Need Attention,Make Up,Store,85.8,203.4,272.8,87,Category and channel aligned
+-3.74309e+18,Recent,Make Up,Store,85.8,199.79,259.78999999999996,101,Category and channel aligned
+1.47016e+18,Recent,Fragrance,Store,85.8,177.59,177.59,152,Channel aligned
+6.6361e+18,Need Attention,Others,Store,85.8,164.9,264.9,97,Channel aligned
+-1.68246e+17,About to Sleep,Others,Store,85.8,95.5,155.5,16,Channel aligned
+1.90339e+18,At Risk,Mixed Basket (Make Up + 7 others),Store,85.7,1292.33,1182.46,283,Channel aligned
+4.08052e+18,Champions,Skincare,Estore,85.7,1088.3999999999999,964.1799999999998,31,New pattern to test
+4.95202e+18,Need Attention,Skincare,Store,85.7,1084.94,853.3600000000001,5,Channel aligned
+-5.13125e+18,Champions,Mixed Basket (Fragrance + 1 others),Store,85.7,960.36,868.76,7,Channel aligned
+-5.74519e+18,Champions,Skincare,Store,85.7,936.53,792.41,13,Channel aligned
+7.46892e+18,Recent,Make Up,Store,85.7,832.61,685.95,11,Category and channel aligned
+8.95161e+17,Champions,Make Up,Store,85.7,832.5699999999999,648.8799999999999,9,Category and channel aligned
+-4.51642e+18,Champions,Fragrance,Store,85.7,815.1,706.3,7,Channel aligned
+-8.53842e+17,Champions,Fragrance,Estore,85.7,788.9200000000001,627.6300000000001,17,New pattern to test
+-7.83387e+18,Champions,Make Up,Estore,85.7,771.25,717.46,22,Category aligned
+-6.20463e+18,Champions,Skincare,Store,85.7,769.27,663.85,1,Channel aligned
+7.662e+18,Champions,Skincare,Store,85.7,759.9399999999999,689.75,34,Channel aligned
+-6.76338e+18,Loyal,Skincare,Store,85.7,752.66,675.3599999999999,14,Channel aligned
+7.79538e+18,Champions,Fragrance,Store,85.7,741.16,628.93,16,Channel aligned
+-6.37157e+18,Champions,Fragrance,Store,85.7,714.71,547.4100000000001,15,Channel aligned
+-8.06394e+18,Champions,Skincare,Store,85.7,688.88,629.35,25,Channel aligned
+1.77684e+18,Champions,Fragrance,Store,85.7,676.15,577.23,38,Channel aligned
+-4.6532e+17,Loyal,Fragrance,Estore,85.7,671.47,540.51,33,New pattern to test
+-5.43576e+18,At Risk,Mixed Basket (Make Up + 5 others),Store,85.7,610.5,583.32,62,Channel aligned
+-5.5206e+18,Champions,Mixed Basket (Make Up + 2 others),Store,85.7,607.1,533.8100000000001,17,Channel aligned
+7.49073e+18,At Risk,Mixed Basket (Skincare + 11 others),Store,85.7,571.0,571.0,269,Channel aligned
+7.11488e+18,Loyal,Make Up,Store,85.7,568.28,411.59,16,Category and channel aligned
+4.67689e+18,Loyal,Make Up,Store,85.7,561.23,469.81,5,Category and channel aligned
+-2.52596e+18,Loyal,Make Up,Store,85.7,558.01,731.52,9,Category and channel aligned
+-3.90141e+18,Champions,Mixed Basket (Make Up + 6 others),Estore,85.7,551.5999999999999,551.5999999999999,161,New pattern to test
+2.52834e+18,Loyal,Make Up,Store,85.7,549.74,420.74,1,Category and channel aligned
+7.50433e+18,Loyal,Others,Store,85.7,535.62,520.48,22,Channel aligned
+7.75823e+18,Loyal,Make Up,Store,85.7,521.32,454.22,32,Category and channel aligned
+5.7437e+18,Loyal,Fragrance,Store,85.7,516.1800000000001,675.3800000000001,14,Channel aligned
+5.5196e+18,Promising,Make Up,Store,85.7,498.73,470.87,167,Category and channel aligned
+-2.8505e+18,Loyal,Make Up,Store,85.7,495.53999999999996,452.96,60,Category and channel aligned
+5.47338e+18,Loyal,Skincare,Store,85.7,490.42,478.08000000000004,8,Channel aligned
+9.1243e+17,Loyal,Make Up,Store,85.7,485.03000000000003,440.08000000000004,21,Category and channel aligned
+5.39072e+18,Loyal,Make Up,Store,85.7,453.76,434.13,25,Category and channel aligned
+-8.90527e+18,Loyal,Make Up,Store,85.7,370.05,361.76,9,Category and channel aligned
+3.22398e+18,Recent,Fragrance,Store,85.7,364.0,306.0,11,Channel aligned
+-7.56156e+18,Promising,Fragrance,Store,85.7,334.8,258.6,329,Channel aligned
+4.93307e+18,Recent,Mixed Basket (Haircare + 1 others),Store,85.7,329.25,407.71,4,Channel aligned
+2.87861e+18,Loyal,Make Up,Store,85.7,280.96,387.03,54,Category and channel aligned
+-1.02371e+18,Recent,Fragrance,Estore,85.7,272.78999999999996,302.78999999999996,11,New pattern to test
+4.78381e+18,Recent,Fragrance,Store,85.7,266.55,323.3,215,Channel aligned
+-1.48518e+18,Recent,Skincare,Store,85.7,250.18,237.70000000000002,20,Channel aligned
+-7.33658e+18,Potential Loyalist,Haircare,Estore,85.7,242.21,282.51,18,New pattern to test
+3.17852e+18,Potential Loyalist,Skincare,Store,85.7,238.41,234.01,1,Channel aligned
+-8.45343e+18,Recent,Fragrance,Store,85.7,232.96,282.96000000000004,91,Channel aligned
+5.30715e+18,Potential Loyalist,Fragrance,Estore,85.7,229.09,237.39000000000001,25,New pattern to test
+9.11566e+18,Potential Loyalist,Fragrance,Estore,85.7,221.41,186.03,17,New pattern to test
+-7.25353e+18,Need Attention,Make Up,Store,85.7,217.77,317.77,7,Category and channel aligned
+-1.52429e+18,At Risk,Mixed Basket (Make Up + 2 others),Estore,85.7,184.0,184.0,44,New pattern to test
+8.69173e+18,Recent,Others,Store,85.7,172.79999999999998,199.80999999999997,24,Channel aligned
+2.53284e+18,At Risk,Fragrance,Store,85.7,172.1,241.2,18,Channel aligned
+3.84129e+18,About to Sleep,Make Up,Store,85.7,109.95,159.95,25,Category and channel aligned
+-7.30548e+18,At Risk,Mixed Basket (Skincare + 6 others),Store,85.6,1311.3,1131.8,361,Channel aligned
+4.26109e+18,Champions,Skincare,Store,85.6,867.15,742.3399999999999,39,Channel aligned
+3.69279e+18,Champions,Fragrance,Store,85.6,859.77,784.76,8,Channel aligned
+8.54951e+18,Champions,Skincare,Store,85.6,849.05,779.52,24,Channel aligned
+-1.53965e+18,Champions,Fragrance,Estore,85.6,837.79,647.76,5,New pattern to test
+6.11743e+18,Champions,Haircare,Estore,85.6,827.0899999999999,609.4099999999999,21,New pattern to test
+3.98391e+18,Champions,Skincare,Store,85.6,776.08,691.44,24,Channel aligned
+8.32085e+18,Champions,Make Up,Store,85.6,763.8,642.1099999999999,12,Category and channel aligned
+-6.94788e+18,Champions,Make Up,Store,85.6,738.52,695.62,33,Category and channel aligned
+2.43294e+18,Champions,Fragrance,Estore,85.6,699.69,560.69,16,New pattern to test
+8.87573e+18,Champions,Make Up,Store,85.6,690.45,553.27,58,Category and channel aligned
+6.24639e+18,Champions,Skincare,Store,85.6,658.78,556.2099999999999,4,Channel aligned
+1.77572e+18,Champions,Make Up,Store,85.6,648.37,554.05,11,Category and channel aligned
+8.68878e+18,Champions,Make Up,Store,85.6,647.14,590.9399999999999,33,Category and channel aligned
+5.21005e+18,Loyal,Make Up,Store,85.6,618.02,512.22,33,Category and channel aligned
+8.95119e+18,Loyal,Fragrance,Store,85.6,572.99,499.62,25,Channel aligned
+5.55296e+18,Promising,Make Up,Store,85.6,572.97,572.97,267,Category and channel aligned
+5.18745e+18,Loyal,Make Up,Store,85.6,555.9399999999999,470.2199999999999,25,Category and channel aligned
+3.08705e+18,Loyal,Mixed Basket (Skincare + 1 others),Store,85.6,545.83,469.13000000000005,32,Channel aligned
+8.44575e+18,Loyal,Make Up,Store,85.6,534.32,495.37000000000006,9,Category and channel aligned
+3.54627e+18,At Risk,Mixed Basket (Make Up + 6 others),Store,85.6,525.31,493.05999999999995,320,Channel aligned
+-2.79843e+18,Champions,Haircare,Store,85.6,494.35,478.75,151,Channel aligned
+6.29145e+18,Loyal,Make Up,Store,85.6,489.50000000000006,421.6500000000001,1,Category and channel aligned
+2.5848e+18,At Risk,Mixed Basket (Make Up + 7 others),Store,85.6,477.97,467.98,162,Channel aligned
+2.23665e+18,Loyal,Others,Store,85.6,477.53,463.19,28,Channel aligned
+-3.07173e+17,Champions,Make Up,Store,85.6,467.63,409.38,111,Category and channel aligned
+8.81177e+18,Loyal,Haircare,Estore,85.6,462.14,408.18,32,New pattern to test
+-5.93389e+18,Loyal,Haircare,Estore,85.6,446.92,422.14,5,New pattern to test
+4.12403e+18,Loyal,Mixed Basket (Skincare + 3 others),Store,85.6,445.76,398.31,8,Channel aligned
+9.03988e+17,Champions,Make Up,Estore,85.6,416.09,416.80999999999995,186,Category aligned
+6.80211e+18,Loyal,Mixed Basket (Skincare + 3 others),Store,85.6,408.95,406.05,77,Channel aligned
+-3.17764e+18,Loyal,Make Up,Store,85.6,375.73,365.83000000000004,32,Category and channel aligned
+-9.11332e+18,Recent,Skincare,Estore,85.6,331.98,331.98,97,New pattern to test
+6.73501e+18,Promising,Skincare,Estore,85.6,281.86,209.54000000000002,11,New pattern to test
+-8.26377e+18,Promising,Fragrance,Store,85.6,241.9,186.9,30,Channel aligned
+-7.47676e+18,Promising,Fragrance,Store,85.6,237.3,204.60000000000002,152,Channel aligned
+8.1837e+17,Promising,Mixed Basket (Skincare + 1 others),Store,85.6,210.88,203.98,356,Channel aligned
+-7.72423e+17,At Risk,Mixed Basket (Skincare + 2 others),Store,85.6,208.88,203.88,77,Channel aligned
+5.83533e+18,Need Attention,Skincare,Store,85.6,194.51,264.11,16,Channel aligned
+8.16564e+18,Recent,Fragrance,Store,85.6,166.88,216.88,242,Channel aligned
+1.55754e+18,Potential Loyalist,Others,Store,85.6,164.53,172.08,10,Channel aligned
+7.69083e+18,Need Attention,Make Up,Store,85.6,162.0,262.0,7,Category and channel aligned
+3.49624e+18,About to Sleep,Fragrance,Estore,85.6,90.0,145.0,20,New pattern to test
+-5.63806e+17,At Risk,Mixed Basket (Make Up + 12 others),Store,85.5,1101.77,1028.15,203,Channel aligned
+4.07213e+18,Champions,Fragrance,Store,85.5,917.06,670.5,19,Channel aligned
+-9.20678e+17,Champions,Haircare,Store,85.5,816.96,636.83,39,Channel aligned
+-8.02244e+17,Champions,Make Up,Store,85.5,811.29,674.8,42,Category and channel aligned
+6.87272e+18,Champions,Fragrance,Store,85.5,783.87,744.12,2,Channel aligned
+-6.43497e+18,Loyal,Skincare,Store,85.5,772.87,683.9300000000001,28,Channel aligned
+4.26444e+18,Champions,Fragrance,Estore,85.5,771.18,705.77,10,New pattern to test
+-3.02062e+18,Champions,Make Up,Store,85.5,757.98,666.59,16,Category and channel aligned
+-4.49357e+18,At Risk,Mixed Basket (Make Up + 15 others),Store,85.5,757.2,752.2,119,Channel aligned
+3.87081e+18,Champions,Make Up,Estore,85.5,714.56,595.93,17,Category aligned
+-2.94498e+18,Champions,Make Up,Store,85.5,687.1700000000001,564.82,44,Category and channel aligned
+3.82464e+18,Champions,Haircare,Estore,85.5,653.77,505.91999999999996,33,New pattern to test
+3.5784e+18,Champions,Mixed Basket (Make Up + 3 others),Store,85.5,653.11,593.46,26,Channel aligned
+-7.57914e+18,Loyal,Make Up,Store,85.5,641.24,793.35,13,Category and channel aligned
+-5.81822e+18,Champions,Make Up,Store,85.5,635.23,581.07,1,Category and channel aligned
+6.21297e+18,Loyal,Make Up,Estore,85.5,610.96,601.38,23,Category aligned
+-6.67346e+18,Loyal,Make Up,Store,85.5,596.0699999999999,543.9799999999999,5,Category and channel aligned
+7.1758e+18,Loyal,Fragrance,Store,85.5,595.96,505.72,10,Channel aligned
+4.66133e+18,Loyal,Skincare,Store,85.5,590.65,539.72,15,Channel aligned
+3.7534e+18,Loyal,Make Up,Store,85.5,577.16,534.8399999999999,4,Category and channel aligned
+-7.92134e+18,Champions,Fragrance,Estore,85.5,566.04,388.51,37,New pattern to test
+3.36201e+17,Loyal,Skincare,Store,85.5,560.53,529.8299999999999,5,Channel aligned
+-5.07749e+18,Loyal,Skincare,Store,85.5,502.6,491.5,25,Channel aligned
+-3.39395e+18,Loyal,Make Up,Store,85.5,502.53000000000003,466.79,62,Category and channel aligned
+-3.777e+18,Loyal,Make Up,Estore,85.5,497.44,420.44,7,Category aligned
+-7.99982e+18,Loyal,Make Up,Estore,85.5,485.63,484.13,32,Category aligned
+-2.43091e+18,Loyal,Skincare,Store,85.5,458.08,358.17999999999995,26,Channel aligned
+3.89805e+18,Potential Loyalist,Make Up,Store,85.5,454.08,394.33,8,Category and channel aligned
+-4.81822e+18,At Risk,Mixed Basket (Skincare + 8 others),Store,85.5,410.68,410.68,152,Channel aligned
+-6.80273e+18,Promising,Fragrance,Store,85.5,389.23,507.48,8,Channel aligned
+-6.9851e+18,Potential Loyalist,Mixed Basket (Skincare + 2 others),Store,85.5,368.15,507.45,18,Channel aligned
+2.47027e+18,Loyal,Skincare,Estore,85.5,363.95,354.15,35,New pattern to test
+-6.77927e+18,Recent,Make Up,Store,85.5,352.62,342.12,4,Category and channel aligned
+-6.36983e+18,Recent,Make Up,Store,85.5,350.67,505.68,4,Category and channel aligned
+3.03129e+18,At Risk,Mixed Basket (Make Up + 2 others),Store,85.5,345.6,340.6,152,Channel aligned
+-3.31635e+18,Loyal,Skincare,Store,85.5,277.8,266.75,36,Channel aligned
+9.06064e+18,Recent,Others,Store,85.5,258.5,313.5,9,Channel aligned
+-6.46737e+18,Potential Loyalist,Mixed Basket (Make Up + 3 others),Estore,85.5,189.54,233.69,1,New pattern to test
+4.7619e+17,Potential Loyalist,Make Up,Store,85.5,187.9,182.9,13,Category and channel aligned
+6.10942e+18,Need Attention,Others,Store,85.5,182.8,262.8,0,Channel aligned
+2.32217e+18,Need Attention,Mixed Basket (Make Up + 1 others),Store,85.5,182.48000000000002,175.08,39,Channel aligned
+-6.78514e+18,Potential Loyalist,Mixed Basket (Make Up + 1 others),Store,85.5,177.24,247.54000000000002,10,Channel aligned
+-3.99324e+18,Need Attention,Make Up,Store,85.5,174.89,234.89,0,Category and channel aligned
+-5.45934e+17,Potential Loyalist,Make Up,Store,85.5,169.76,169.76,17,Category and channel aligned
+-6.54109e+18,Potential Loyalist,Make Up,Estore,85.5,147.27,167.65,52,Category aligned
+-9.08377e+18,Need Attention,Others,Store,85.5,107.49000000000001,157.49,333,Channel aligned
+-9.0374e+18,About to Sleep,Fragrance,Store,85.5,102.0,152.0,179,Channel aligned
+3.96018e+18,Champions,Skincare,Store,85.4,874.1400000000001,818.94,1,Channel aligned
+-8.79231e+18,Champions,Mixed Basket (Make Up + 7 others),Estore,85.4,852.5900000000001,593.0100000000002,30,New pattern to test
+-3.96533e+18,Champions,Make Up,Estore,85.4,821.27,740.0699999999999,18,Category aligned
+-2.07857e+18,Champions,Skincare,Store,85.4,785.26,644.7,1,Channel aligned
+-2.92227e+17,Champions,Mixed Basket (Make Up + 1 others),Store,85.4,784.12,654.87,5,Channel aligned
+-5.48927e+18,Champions,Fragrance,Store,85.4,779.88,681.79,19,Channel aligned
+-6.89702e+18,Champions,Skincare,Estore,85.4,687.37,644.07,17,New pattern to test
+-8.56171e+17,Champions,Make Up,Store,85.4,649.42,577.8699999999999,11,Category and channel aligned
+-4.72351e+18,Champions,Skincare,Store,85.4,621.05,585.65,100,Channel aligned
+-3.40282e+18,Champions,Mixed Basket (Skincare + 3 others),Store,85.4,618.22,393.12,33,Channel aligned
+6.25402e+18,Loyal,Skincare,Store,85.4,614.83,585.96,5,Channel aligned
+2.91803e+18,Promising,Mixed Basket (Make Up + 6 others),Store,85.4,594.9,564.93,177,Channel aligned
+5.83576e+17,Loyal,Make Up,Store,85.4,594.6899999999999,511.54999999999995,53,Category and channel aligned
+-7.79524e+18,Champions,Make Up,Store,85.4,590.42,522.77,31,Category and channel aligned
+3.15661e+18,Loyal,Make Up,Estore,85.4,581.02,489.07,7,Category aligned
+9.0754e+18,Loyal,Make Up,Store,85.4,579.86,504.56,30,Category and channel aligned
+-2.6003e+18,Loyal,Haircare,Store,85.4,563.89,476.03,0,Channel aligned
+-8.02414e+18,Loyal,Skincare,Store,85.4,550.1800000000001,461.74000000000007,25,Channel aligned
+1.72994e+18,Loyal,Make Up,Store,85.4,549.79,423.28999999999996,30,Category and channel aligned
+-3.59409e+18,Loyal,Make Up,Store,85.4,547.2,498.76000000000005,2,Category and channel aligned
+-4.68829e+17,Promising,Make Up,Estore,85.4,491.8,491.8,9,Category aligned
+-9.92459e+17,Loyal,Skincare,Store,85.4,479.63,412.09000000000003,30,Channel aligned
+4.21952e+18,Loyal,Make Up,Estore,85.4,479.49,450.54,109,Category aligned
+-7.51106e+18,Loyal,Make Up,Store,85.4,477.95,383.2,28,Category and channel aligned
+-8.64401e+18,Loyal,Haircare,Store,85.4,463.22999999999996,394.30999999999995,16,Channel aligned
+-7.68693e+18,Loyal,Skincare,Store,85.4,432.49,406.1,20,Channel aligned
+-3.0439e+18,Loyal,Mixed Basket (Make Up + 1 others),Store,85.4,424.85999999999996,378.93999999999994,18,Channel aligned
+7.55187e+18,At Risk,Mixed Basket (Make Up + 5 others),Store,85.4,406.57,401.57,120,Channel aligned
+4.08658e+18,Loyal,Make Up,Store,85.4,403.15999999999997,368.46,32,Category and channel aligned
+-4.57663e+18,Loyal,Make Up,Store,85.4,380.96,366.59,23,Category and channel aligned
+-1.2616e+18,At Risk,Mixed Basket (Skincare + 4 others),Store,85.4,328.76,328.76,104,Channel aligned
+7.34624e+18,Loyal,Make Up,Store,85.4,307.08,321.28999999999996,87,Category and channel aligned
+7.06855e+18,At Risk,Fragrance,Estore,85.4,304.98,207.98000000000002,150,New pattern to test
+-2.98244e+18,Recent,Fragrance,Store,85.4,296.34,204.79999999999998,36,Channel aligned
+-6.6901e+18,Potential Loyalist,Skincare,Store,85.4,210.85,287.96,84,Channel aligned
+-6.66769e+18,Recent,Others,Store,85.4,198.93,298.93,79,Channel aligned
+6.3047e+18,Promising,Skincare,Store,85.4,193.45,193.45,27,Channel aligned
+-4.97779e+18,Promising,Fragrance,Estore,85.4,186.5,191.0,21,New pattern to test
+-1.27297e+18,At Risk,Others,Store,85.4,161.15,203.3,259,Channel aligned
+4.9978e+18,At Risk,Mixed Basket (Haircare + 5 others),Store,85.4,153.94,143.94,19,Channel aligned
+-8.88469e+18,At Risk,Haircare,Store,85.4,136.0,196.0,9,Channel aligned
+8.11539e+18,About to Sleep,Make Up,Store,85.4,101.88,151.88,84,Category and channel aligned
+2.51767e+18,At Risk,Others,Store,85.4,89.92,139.94,194,Channel aligned
+2.85847e+18,About to Sleep,Others,Store,85.4,45.99,75.99000000000001,72,Channel aligned
+9.16228e+18,Champions,Make Up,Estore,85.3,4889.56,5292.070000000001,24,Category aligned
+1.06787e+18,Champions,Mixed Basket (Skincare + 2 others),Store,85.3,949.91,846.23,39,Channel aligned
+9.46628e+17,Champions,Make Up,Store,85.3,916.84,761.04,32,Category and channel aligned
+-5.69707e+18,Champions,Make Up,Store,85.3,853.93,628.93,68,Category and channel aligned
+-2.71847e+18,Champions,Skincare,Estore,85.3,843.28,745.73,9,New pattern to test
+-1.97692e+18,Champions,Make Up,Store,85.3,827.61,742.45,20,Category and channel aligned
+-6.3631e+18,Champions,Make Up,Store,85.3,797.21,716.77,32,Category and channel aligned
+7.33176e+17,Champions,Skincare,Store,85.3,792.08,620.1,56,Channel aligned
+3.77742e+18,Champions,Make Up,Estore,85.3,782.71,745.2800000000001,3,Category aligned
+3.66822e+18,Champions,Make Up,Store,85.3,769.81,550.5999999999999,7,Category and channel aligned
+-9.06603e+18,Champions,Make Up,Store,85.3,751.26,561.76,52,Category and channel aligned
+8.64255e+18,Champions,Skincare,Store,85.3,740.23,679.98,32,Channel aligned
+2.49735e+18,Champions,Fragrance,Store,85.3,739.11,601.96,42,Channel aligned
+3.53436e+18,Loyal,Skincare,Store,85.3,726.81,1047.8799999999999,77,Channel aligned
+-6.45604e+18,At Risk,Mixed Basket (Make Up + 1 others),Store,85.3,694.74,694.74,282,Channel aligned
+-4.96455e+18,Champions,Make Up,Store,85.3,682.5799999999999,622.6399999999999,74,Category and channel aligned
+5.81509e+18,Champions,Make Up,Store,85.3,676.61,590.6800000000001,17,Category and channel aligned
+3.65211e+18,Champions,Skincare,Store,85.3,643.49,551.96,8,Channel aligned
+7.17448e+18,Champions,Fragrance,Store,85.3,640.5799999999999,579.3,31,Channel aligned
+4.7252e+18,Loyal,Haircare,Store,85.3,619.1800000000001,569.5200000000001,25,Channel aligned
+1.34269e+18,Champions,Make Up,Estore,85.3,618.19,577.35,9,Category aligned
+-7.51427e+18,Champions,Skincare,Estore,85.3,616.27,528.86,11,New pattern to test
+-6.12856e+18,Champions,Make Up,Store,85.3,605.27,493.74,9,Category and channel aligned
+3.79122e+18,Promising,Mixed Basket (Make Up + 8 others),Store,85.3,581.5,559.0,58,Channel aligned
+9.11889e+18,Loyal,Make Up,Store,85.3,577.64,576.39,9,Category and channel aligned
+7.80498e+18,Loyal,Fragrance,Store,85.3,558.32,447.00000000000006,0,Channel aligned
+-3.6951e+18,At Risk,Mixed Basket (Make Up + 13 others),Store,85.3,534.9000000000001,475.2000000000001,342,Channel aligned
+-7.13285e+18,Loyal,Skincare,Estore,85.3,522.85,480.62,12,New pattern to test
+4.17607e+18,Loyal,Fragrance,Store,85.3,514.78,474.67999999999995,16,Channel aligned
+-2.26816e+18,Loyal,Others,Store,85.3,511.2,565.5699999999999,12,Channel aligned
+-4.54095e+18,Loyal,Mixed Basket (Others + 1 others),Store,85.3,501.2,455.61,7,Channel aligned
+-7.01146e+18,Champions,Skincare,Store,85.3,498.43,439.5,42,Channel aligned
+5.90735e+18,Loyal,Make Up,Store,85.3,495.71,453.44,19,Category and channel aligned
+1.79496e+18,Loyal,Haircare,Estore,85.3,470.48,397.47,11,New pattern to test
+-1.13537e+17,Loyal,Skincare,Estore,85.3,445.47,421.67,67,New pattern to test
+-8.24614e+18,Loyal,Fragrance,Estore,85.3,437.76,404.86,22,New pattern to test
+-3.28142e+18,Loyal,Mixed Basket (Skincare + 6 others),Estore,85.3,437.57,435.46999999999997,66,New pattern to test
+-8.0626e+18,Loyal,Skincare,Store,85.3,422.15999999999997,392.51,14,Channel aligned
+-8.68414e+18,Loyal,Skincare,Store,85.3,419.86,424.28000000000003,18,Channel aligned
+1.02576e+18,Loyal,Mixed Basket (Skincare + 2 others),Estore,85.3,419.37,371.63,0,New pattern to test
+-8.79649e+18,Loyal,Mixed Basket (Make Up + 7 others),Store,85.3,410.0,387.57,12,Channel aligned
+-4.9002e+18,Loyal,Make Up,Store,85.3,389.91,367.98,23,Category and channel aligned
+4.83688e+18,Potential Loyalist,Fragrance,Store,85.3,377.34000000000003,526.84,8,Channel aligned
+-4.28233e+18,At Risk,Fragrance,Store,85.3,365.75,300.5,84,Channel aligned
+-8.28689e+18,Loyal,Fragrance,Store,85.3,362.94,377.1,12,Channel aligned
+-6.44255e+18,Loyal,Skincare,Store,85.3,348.01,319.18,34,Channel aligned
+4.91366e+17,Promising,Fragrance,Store,85.3,301.74,269.49,31,Channel aligned
+9.0428e+18,Promising,Fragrance,Estore,85.3,262.5,232.0,217,New pattern to test
+8.13214e+18,Potential Loyalist,Make Up,Store,85.3,238.84,318.84000000000003,174,Category and channel aligned
+6.76196e+18,Promising,Others,Store,85.3,213.24,261.49,25,Channel aligned
+4.37846e+18,Need Attention,Fragrance,Store,85.3,196.0,272.0,33,Channel aligned
+8.32313e+17,Promising,Make Up,Store,85.3,179.98,179.98,13,Category and channel aligned
+7.10768e+18,Recent,Haircare,Store,85.3,169.9,169.9,19,Channel aligned
+1.45939e+17,Potential Loyalist,Skincare,Store,85.3,169.88,191.9,31,Channel aligned
+-8.59974e+18,Recent,Mixed Basket (Haircare + 3 others),Estore,85.3,167.29000000000002,154.81000000000003,57,New pattern to test
+-9.6224e+17,About to Sleep,Make Up,Store,85.3,96.48,146.48000000000002,75,Category and channel aligned
+2.02083e+18,Recent,Fragrance,Store,85.3,69.9,109.9,54,Channel aligned
+6.66988e+18,Champions,Make Up,Store,85.2,1529.21,1731.8600000000001,8,Category and channel aligned
+3.27354e+18,Champions,Fragrance,Store,85.2,1083.63,1361.6100000000001,22,Channel aligned
+-6.88943e+18,Champions,Fragrance,Store,85.2,944.6,812.2,21,Channel aligned
+3.00895e+18,Champions,Make Up,Store,85.2,866.01,769.66,8,Category and channel aligned
+-7.97129e+18,Champions,Make Up,Store,85.2,789.86,602.04,30,Category and channel aligned
+-4.2115e+18,Champions,Make Up,Store,85.2,752.01,605.13,31,Category and channel aligned
+9.14447e+18,Champions,Make Up,Store,85.2,745.46,674.38,30,Category and channel aligned
+-4.85309e+18,Champions,Skincare,Store,85.2,704.5,514.72,23,Channel aligned
+5.84442e+18,Champions,Mixed Basket (Make Up + 2 others),Estore,85.2,689.48,476.13,144,New pattern to test
+-7.12337e+18,Champions,Make Up,Store,85.2,657.41,613.01,98,Category and channel aligned
+-1.16352e+17,Champions,Make Up,Store,85.2,650.0,585.3,18,Category and channel aligned
+4.41836e+18,Champions,Skincare,Estore,85.2,643.84,604.89,74,New pattern to test
+-7.26112e+18,Champions,Fragrance,Store,85.2,641.55,543.38,23,Channel aligned
+-4.75244e+18,Champions,Skincare,Store,85.2,637.86,503.97,18,Channel aligned
+-7.50791e+18,At Risk,Mixed Basket (Skincare + 1 others),Store,85.2,626.4,580.41,128,Channel aligned
+-5.95131e+18,Loyal,Others,Store,85.2,620.36,686.83,7,Channel aligned
+4.33083e+18,Champions,Make Up,Store,85.2,601.42,551.62,48,Category and channel aligned
+-3.17426e+18,Loyal,Fragrance,Estore,85.2,588.39,530.13,30,New pattern to test
+3.03244e+18,Loyal,Fragrance,Store,85.2,582.02,441.17999999999995,20,Channel aligned
+6.78486e+18,Loyal,Fragrance,Store,85.2,573.56,678.31,4,Channel aligned
+5.12829e+18,At Risk,Mixed Basket (Make Up + 10 others),Store,85.2,572.37,425.65,30,Channel aligned
+-4.68491e+18,Loyal,Fragrance,Store,85.2,542.6700000000001,524.48,86,Channel aligned
+-6.67578e+18,Loyal,Make Up,Store,85.2,533.41,505.46999999999997,15,Category and channel aligned
+-3.2162e+18,Promising,Make Up,Estore,85.2,522.1,522.1,9,Category aligned
+2.59506e+18,Loyal,Mixed Basket (Make Up + 4 others),Store,85.2,501.8,448.76,45,Channel aligned
+-1.19995e+18,Loyal,Haircare,Store,85.2,476.0,402.63,31,Channel aligned
+-7.40375e+18,Champions,Mixed Basket (Skincare + 9 others),Store,85.2,464.62000000000006,410.69000000000005,35,Channel aligned
+-1.18125e+18,Recent,Make Up,Store,85.2,462.79,376.49,30,Category and channel aligned
+6.43958e+18,Recent,Fragrance,Store,85.2,457.71000000000004,412.46000000000004,9,Channel aligned
+-3.2142e+18,Recent,Skincare,Estore,85.2,457.23,428.06,232,New pattern to test
+-1.44434e+17,Loyal,Haircare,Store,85.2,428.96,428.96,63,Channel aligned
+-3.80029e+18,Loyal,Skincare,Store,85.2,410.57,395.38,1,Channel aligned
+-3.95063e+18,Recent,Mixed Basket (Make Up + 5 others),Store,85.2,403.09000000000003,390.49,9,Channel aligned
+7.13325e+18,Promising,Fragrance,Estore,85.2,378.25,465.5,11,New pattern to test
+6.06805e+18,Recent,Haircare,Store,85.2,344.77,463.57,5,Channel aligned
+-1.18245e+18,Promising,Fragrance,Store,85.2,318.59,426.18999999999994,26,Channel aligned
+-9.13601e+18,Potential Loyalist,Make Up,Store,85.2,295.45000000000005,445.45000000000005,54,Category and channel aligned
+7.88402e+18,Loyal,Skincare,Store,85.2,278.40999999999997,303.53,83,Channel aligned
+2.4627e+18,Loyal,Skincare,Estore,85.2,269.4,269.4,146,New pattern to test
+-6.79765e+18,Potential Loyalist,Make Up,Store,85.2,263.85,292.85,15,Category and channel aligned
+-8.87923e+18,Promising,Make Up,Store,85.2,249.71,219.13,33,Category and channel aligned
+5.72859e+18,Loyal,Skincare,Estore,85.2,240.45999999999998,187.74999999999997,21,New pattern to test
+-2.36773e+18,Potential Loyalist,Skincare,Store,85.2,234.92,309.91999999999996,11,Channel aligned
+4.78236e+18,Recent,Skincare,Store,85.2,227.68,198.58,46,Channel aligned
+3.75872e+18,Recent,Skincare,Store,85.2,222.78,184.28,11,Channel aligned
+2.21145e+18,Loyal,Make Up,Store,85.2,210.18,207.19,131,Category and channel aligned
+6.55504e+18,Recent,Mixed Basket (Skincare + 1 others),Store,85.2,183.0,233.0,0,Channel aligned
+-7.26232e+18,Recent,Haircare,Store,85.2,179.85000000000002,179.85000000000002,12,Channel aligned
+-4.2456e+18,Recent,Mixed Basket (Make Up + 1 others),Estore,85.2,169.9,169.9,11,New pattern to test
+-1.82377e+18,Potential Loyalist,Make Up,Store,85.2,168.88,168.88,24,Category and channel aligned
+-6.9173e+18,About to Sleep,Others,Store,85.2,107.52,143.12,31,Channel aligned
+-1.20412e+18,About to Sleep,Skincare,Estore,85.2,76.0,107.0,25,New pattern to test
+3.0711e+18,Champions,Fragrance,Store,85.1,1010.93,937.15,8,Channel aligned
+-2.71205e+18,Champions,Make Up,Estore,85.1,896.26,826.42,1,Category aligned
+2.67845e+18,Champions,Mixed Basket (Make Up + 1 others),Estore,85.1,879.65,808.17,7,New pattern to test
+-5.16275e+18,Recent,Fragrance,Store,85.1,818.07,776.44,14,Channel aligned
+2.47585e+18,Champions,Make Up,Estore,85.1,811.75,772.31,123,Category aligned
+6.24633e+18,Champions,Make Up,Store,85.1,700.13,573.78,4,Category and channel aligned
+-6.43712e+18,Champions,Mixed Basket (Skincare + 3 others),Estore,85.1,698.44,575.82,15,New pattern to test
+8.94536e+18,Loyal,Make Up,Store,85.1,686.05,534.25,9,Category and channel aligned
+3.86135e+18,Loyal,Skincare,Store,85.1,649.33,494.89000000000004,14,Channel aligned
+-5.35112e+18,Champions,Skincare,Estore,85.1,644.82,542.8900000000001,22,New pattern to test
+6.06125e+18,Promising,Make Up,Estore,85.1,642.1800000000001,523.46,85,Category aligned
+4.35787e+18,Champions,Fragrance,Estore,85.1,624.56,544.56,34,New pattern to test
+1.58992e+18,Champions,Make Up,Store,85.1,623.21,482.55000000000007,31,Category and channel aligned
+8.67059e+18,Loyal,Skincare,Store,85.1,596.9,517.4,5,Channel aligned
+6.00789e+18,Champions,Skincare,Estore,85.1,587.16,520.0999999999999,28,New pattern to test
+3.15766e+18,Loyal,Skincare,Store,85.1,582.33,436.9200000000001,40,Channel aligned
+4.32196e+18,Promising,Mixed Basket (Fragrance + 1 others),Store,85.1,581.98,581.98,186,Channel aligned
+-6.92288e+18,Loyal,Make Up,Store,85.1,578.91,464.67999999999995,33,Category and channel aligned
+2.93141e+18,Loyal,Skincare,Store,85.1,557.84,424.52000000000004,7,Channel aligned
+-3.57689e+18,Loyal,Haircare,Estore,85.1,549.06,535.2299999999999,39,New pattern to test
+4.9429e+18,Loyal,Others,Store,85.1,544.24,452.68,19,Channel aligned
+3.07303e+18,Loyal,Make Up,Store,85.1,502.97,394.6,16,Category and channel aligned
+1.49275e+18,Loyal,Others,Store,85.1,492.26,438.71,25,Channel aligned
+8.25131e+18,Loyal,Make Up,Store,85.1,484.87,434.14,13,Category and channel aligned
+-1.79919e+18,Recent,Skincare,Store,85.1,475.86,605.86,8,Channel aligned
+-4.69324e+18,Loyal,Make Up,Estore,85.1,474.06,446.62,163,Category aligned
+1.90827e+18,Loyal,Haircare,Store,85.1,472.82,423.89,64,Channel aligned
+3.0285e+18,Loyal,Make Up,Estore,85.1,459.55,421.86,13,Category aligned
+8.37474e+18,Recent,Make Up,Store,85.1,449.09000000000003,444.29,2,Category and channel aligned
+-8.84048e+18,At Risk,Mixed Basket (Skincare + 13 others),Store,85.1,448.59000000000003,448.59000000000003,212,Channel aligned
+-2.34116e+18,At Risk,Mixed Basket (Make Up + 9 others),Store,85.1,447.79999999999995,447.79999999999995,131,Channel aligned
+2.53626e+16,At Risk,Mixed Basket (Make Up + 9 others),Store,85.1,447.5,447.5,159,Channel aligned
+-8.86651e+18,Loyal,Mixed Basket (Make Up + 2 others),Store,85.1,445.4,371.96,21,Channel aligned
+-3.17075e+18,Loyal,Fragrance,Store,85.1,443.75,410.07,26,Channel aligned
+-4.59325e+18,Loyal,Make Up,Store,85.1,439.3,423.42,18,Category and channel aligned
+2.56079e+18,Loyal,Make Up,Estore,85.1,434.84000000000003,374.91,25,Category aligned
+-5.10322e+18,Loyal,Make Up,Estore,85.1,425.61,383.36,14,Category aligned
+6.1721e+18,Loyal,Make Up,Store,85.1,403.01,355.23,8,Category and channel aligned
+-5.03624e+18,Loyal,Fragrance,Estore,85.1,399.21,385.82,24,New pattern to test
+-1.34858e+18,Loyal,Mixed Basket (Skincare + 1 others),Store,85.1,383.21000000000004,306.53000000000003,24,Channel aligned
+2.62499e+18,Loyal,Fragrance,Store,85.1,382.98,527.98,173,Channel aligned
+3.70098e+18,Loyal,Skincare,Store,85.1,374.71,343.32,54,Channel aligned
+-4.21943e+18,Loyal,Skincare,Store,85.1,363.97,347.17,13,Channel aligned
+-6.75152e+18,Recent,Mixed Basket (Make Up + 1 others),Estore,85.1,316.01,294.33,0,New pattern to test
+4.18765e+18,Recent,Make Up,Store,85.1,252.42000000000002,212.49,31,Category and channel aligned
+-8.57003e+17,Loyal,Skincare,Store,85.1,241.32999999999998,235.38,35,Channel aligned
+6.75619e+18,Need Attention,Mixed Basket (Make Up + 2 others),Store,85.1,224.98000000000002,224.98000000000002,96,Channel aligned
+3.01579e+18,Potential Loyalist,Skincare,Store,85.1,208.8,308.8,69,Channel aligned
+4.34523e+18,Potential Loyalist,Make Up,Store,85.1,202.99,302.99,25,Category and channel aligned
+5.32814e+18,Potential Loyalist,Mixed Basket (Skincare + 4 others),Store,85.1,201.94,177.51999999999998,42,Channel aligned
+7.95571e+18,Potential Loyalist,Make Up,Store,85.1,199.32999999999998,171.73,35,Category and channel aligned
+3.30379e+18,Potential Loyalist,Make Up,Estore,85.1,187.07999999999998,241.17999999999998,34,Category aligned
+-6.75163e+18,Promising,Haircare,Estore,85.1,186.9,186.9,9,New pattern to test
+-4.8384e+18,Recent,Skincare,Store,85.1,184.89,184.89,123,Channel aligned
+5.88191e+18,Recent,Skincare,Store,85.1,183.85,183.85,30,Channel aligned
+1.04913e+18,Recent,Skincare,Store,85.1,179.08999999999997,169.18999999999997,103,Channel aligned
+4.50393e+18,Recent,Skincare,Estore,85.1,173.19,173.19,95,New pattern to test
+-6.80476e+18,Need Attention,Fragrance,Store,85.1,145.25,203.5,42,Channel aligned
+-3.90896e+18,Potential Loyalist,Mixed Basket (Skincare + 2 others),Store,85.1,143.34,206.74,5,Channel aligned
+6.12179e+18,About to Sleep,Make Up,Store,85.1,139.0,219.0,134,Category and channel aligned
+-3.87685e+18,About to Sleep,Skincare,Store,85.1,52.980000000000004,82.98,11,Channel aligned
+-8.71493e+18,Champions,Make Up,Estore,85.0,926.12,849.23,8,Category aligned
+-8.97976e+18,Champions,Make Up,Store,85.0,895.5500000000001,675.46,8,Category and channel aligned
+5.90608e+18,Champions,Fragrance,Store,85.0,857.02,960.48,7,Channel aligned
+7.59675e+18,Champions,Make Up,Estore,85.0,848.47,704.21,58,Category aligned
+7.71787e+18,Champions,Make Up,Store,85.0,814.1,587.51,15,Category and channel aligned
+-4.90036e+18,Champions,Fragrance,Store,85.0,796.71,642.28,30,Channel aligned
+-4.53005e+18,Champions,Fragrance,Estore,85.0,786.2,760.94,8,New pattern to test
+2.86411e+18,Champions,Mixed Basket (Make Up + 1 others),Store,85.0,756.38,624.25,11,Channel aligned
+-1.98156e+17,Champions,Make Up,Store,85.0,751.87,646.9300000000001,35,Category and channel aligned
+-5.12877e+18,Champions,Fragrance,Store,85.0,708.67,511.4699999999999,9,Channel aligned
+4.89558e+18,Recent,Make Up,Store,85.0,707.3199999999999,893.0699999999999,163,Category and channel aligned
+-2.71966e+18,Champions,Make Up,Store,85.0,697.93,632.75,14,Category and channel aligned
+8.28279e+18,Champions,Make Up,Estore,85.0,693.59,668.5300000000001,25,Category aligned
+-2.90185e+18,Champions,Make Up,Store,85.0,669.67,599.8199999999999,18,Category and channel aligned
+-5.19679e+18,Champions,Make Up,Store,85.0,652.61,614.57,27,Category and channel aligned
+-6.10949e+18,Champions,Make Up,Store,85.0,651.69,534.3100000000001,23,Category and channel aligned
+-8.72559e+18,Champions,Skincare,Estore,85.0,646.02,597.89,7,New pattern to test
+7.16014e+18,Champions,Skincare,Estore,85.0,626.39,481.90999999999997,159,New pattern to test
+-8.31668e+18,Loyal,Skincare,Store,85.0,585.5799999999999,496.7099999999999,4,Channel aligned
+5.37703e+18,Loyal,Make Up,Estore,85.0,585.0699999999999,482.2699999999999,0,Category aligned
+-8.05485e+18,Loyal,Fragrance,Estore,85.0,578.93,492.12999999999994,22,New pattern to test
+8.07004e+18,Loyal,Skincare,Store,85.0,577.75,518.96,12,Channel aligned
+-9.1286e+18,Champions,Make Up,Store,85.0,577.4200000000001,475.18000000000006,185,Category and channel aligned
+-8.59385e+18,Loyal,Mixed Basket (Skincare + 2 others),Estore,85.0,569.03,419.78999999999996,18,New pattern to test
+-4.08524e+17,Loyal,Mixed Basket (Make Up + 1 others),Store,85.0,568.33,547.1700000000001,29,Channel aligned
+-1.24827e+18,Loyal,Make Up,Store,85.0,559.97,513.6600000000001,13,Category and channel aligned
+6.40476e+18,Promising,Mixed Basket (Skincare + 4 others),Store,85.0,548.6,405.33000000000004,147,Channel aligned
+-6.16811e+18,Champions,Make Up,Estore,85.0,548.03,434.30999999999995,64,Category aligned
+2.07953e+18,Recent,Make Up,Estore,85.0,523.16,449.03,7,Category aligned
+-3.45621e+18,Loyal,Make Up,Store,85.0,486.0,431.26,19,Category and channel aligned
+-5.22331e+18,Loyal,Make Up,Store,85.0,473.54,428.44,29,Category and channel aligned
+6.55626e+18,Loyal,Skincare,Store,85.0,468.8,383.05,20,Channel aligned
+-7.20747e+18,Recent,Mixed Basket (Fragrance + 8 others),Store,85.0,460.79,369.91,85,Channel aligned
+-6.62908e+18,Promising,Make Up,Estore,85.0,455.75,401.77,25,Category aligned
+3.97015e+18,Loyal,Make Up,Store,85.0,446.13,412.55,39,Category and channel aligned
+2.66164e+18,At Risk,Others,Store,85.0,439.89,439.89,172,Channel aligned
+-7.93542e+18,Loyal,Make Up,Estore,85.0,438.05,368.72,32,Category aligned
+-6.38197e+18,Loyal,Make Up,Estore,85.0,430.69,401.6,57,Category aligned
+-9.07428e+18,At Risk,Mixed Basket (Make Up + 4 others),Store,85.0,428.09999999999997,428.09999999999997,150,Channel aligned
+6.1646e+18,Loyal,Fragrance,Store,85.0,421.86,408.86,11,Channel aligned
+5.43757e+18,Loyal,Skincare,Store,85.0,412.34999999999997,407.04999999999995,40,Channel aligned
+2.16726e+18,Loyal,Make Up,Store,85.0,411.18,393.38,33,Category and channel aligned
+3.59511e+18,Loyal,Mixed Basket (Skincare + 6 others),Estore,85.0,406.13,346.4,1,New pattern to test
+-5.10366e+18,Loyal,Mixed Basket (Make Up + 2 others),Store,85.0,400.41999999999996,381.22999999999996,128,Channel aligned
+-7.65164e+18,Potential Loyalist,Others,Store,85.0,377.9,508.46999999999997,1,Channel aligned
+6.91627e+17,At Risk,Mixed Basket (Skincare + 1 others),Store,85.0,365.38,365.38,340,Channel aligned
+2.04329e+18,Loyal,Haircare,Estore,85.0,364.28000000000003,314.32000000000005,31,New pattern to test
+3.53868e+18,Promising,Mixed Basket (Fragrance + 1 others),Store,85.0,361.92,358.92,186,Channel aligned
+1.26562e+18,At Risk,Mixed Basket (Haircare + 4 others),Store,85.0,361.69,361.69,262,Channel aligned
+-6.88656e+18,Loyal,Fragrance,Estore,85.0,359.87,328.89,51,New pattern to test
+2.86551e+18,Need Attention,Make Up,Store,85.0,304.45,264.45,16,Category and channel aligned
+4.94346e+18,Promising,Fragrance,Estore,85.0,231.5,167.0,235,New pattern to test
+-6.06449e+18,Promising,Fragrance,Store,85.0,211.35,144.87,53,Channel aligned
+-7.89736e+18,Recent,Skincare,Store,85.0,211.17000000000002,203.68,95,Channel aligned
+-2.62469e+18,Recent,Make Up,Store,85.0,176.89,176.89,29,Category and channel aligned
+7.85024e+18,Potential Loyalist,Mixed Basket (Make Up + 1 others),Store,85.0,164.88,164.88,10,Channel aligned
+-8.48136e+18,About to Sleep,Haircare,Store,85.0,93.97999999999999,153.98,13,Channel aligned
+-5.56363e+18,About to Sleep,Skincare,Store,85.0,85.0,135.0,11,Channel aligned
+-6.34115e+18,Champions,Make Up,Estore,84.9,1294.3200000000002,1308.4700000000003,12,Category aligned
+4.16252e+18,Champions,Make Up,Store,84.9,925.48,903.28,84,Category and channel aligned
+2.395e+18,Champions,Fragrance,Store,84.9,907.04,783.41,13,Channel aligned
+1.59912e+18,Champions,Make Up,Estore,84.9,768.13,583.28,12,Category aligned
+-8.90637e+18,Champions,Skincare,Store,84.9,742.55,664.04,21,Channel aligned
+2.59956e+17,Champions,Haircare,Estore,84.9,726.32,629.2,40,New pattern to test
+1.66798e+16,Champions,Fragrance,Store,84.9,698.6899999999999,534.9,167,Channel aligned
+5.04744e+18,At Risk,Fragrance,Store,84.9,694.4,528.01,171,Channel aligned
+-5.29025e+18,Champions,Skincare,Store,84.9,686.38,604.38,20,Channel aligned
+-1.02003e+18,At Risk,Mixed Basket (Others + 3 others),Store,84.9,673.0,643.0,276,Channel aligned
+3.54954e+18,Champions,Skincare,Store,84.9,671.3199999999999,511.4599999999999,31,Channel aligned
+-5.29297e+18,Champions,Make Up,Store,84.9,666.88,601.25,5,Category and channel aligned
+6375290000000000.0,Champions,Make Up,Store,84.9,660.86,556.5600000000001,12,Category and channel aligned
+-5.73416e+18,Champions,Make Up,Estore,84.9,646.12,520.56,30,Category aligned
+-2.65372e+18,Champions,Make Up,Store,84.9,641.73,459.21000000000004,30,Category and channel aligned
+2.67687e+18,Champions,Skincare,Estore,84.9,629.25,493.34000000000003,16,New pattern to test
+3.98417e+18,Champions,Make Up,Estore,84.9,616.5699999999999,485.03999999999996,161,Category aligned
+-6.64949e+18,Champions,Fragrance,Estore,84.9,607.69,425.51000000000005,51,New pattern to test
+-9.07344e+18,Loyal,Make Up,Store,84.9,596.98,507.93,20,Category and channel aligned
+-2.72148e+17,Loyal,Make Up,Store,84.9,583.9599999999999,447.8599999999999,14,Category and channel aligned
+-4.69202e+18,Loyal,Skincare,Store,84.9,582.28,502.24,23,Channel aligned
+-6.7054e+18,Loyal,Skincare,Store,84.9,581.3199999999999,491.74999999999994,61,Channel aligned
+7.16094e+18,Loyal,Fragrance,Estore,84.9,575.75,485.0,8,New pattern to test
+-4.8382e+18,Loyal,Make Up,Store,84.9,573.2,497.73,5,Category and channel aligned
+3.46043e+18,Loyal,Skincare,Estore,84.9,563.9,552.86,19,New pattern to test
+7.12961e+18,Recent,Make Up,Store,84.9,562.6700000000001,413.4200000000001,24,Category and channel aligned
+-8.0997e+18,Loyal,Skincare,Store,84.9,559.1999999999999,462.0299999999999,7,Channel aligned
+-1.47399e+18,Loyal,Make Up,Estore,84.9,545.1,461.44000000000005,8,Category aligned
+8.33117e+18,Loyal,Make Up,Store,84.9,543.1,465.43,0,Category and channel aligned
+1.74117e+18,Loyal,Skincare,Estore,84.9,534.15,458.96,5,New pattern to test
+-6.9537e+18,Loyal,Make Up,Store,84.9,509.95,486.81,0,Category and channel aligned
+-7.05437e+18,Loyal,Make Up,Store,84.9,492.72,422.77000000000004,4,Category and channel aligned
+-2.1093e+18,Recent,Mixed Basket (Skincare + 7 others),Store,84.9,479.72,562.97,11,Channel aligned
+6.78068e+18,Loyal,Fragrance,Store,84.9,478.83,414.82,79,Channel aligned
+4.23953e+18,Loyal,Mixed Basket (Skincare + 2 others),Store,84.9,476.34000000000003,400.6,33,Channel aligned
+-2.89907e+18,At Risk,Mixed Basket (Skincare + 10 others),Store,84.9,473.08000000000004,453.85,305,Channel aligned
+3.16732e+18,Loyal,Skincare,Store,84.9,446.86,478.06,14,Channel aligned
+7.36815e+18,About to Sleep,Skincare,Store,84.9,444.37,436.77,7,Channel aligned
+5.02647e+18,Loyal,Skincare,Store,84.9,440.25,360.81,8,Channel aligned
+-4.18305e+18,Loyal,Make Up,Store,84.9,430.91,398.68,0,Category and channel aligned
+6.36028e+18,Loyal,Make Up,Store,84.9,421.77000000000004,421.77000000000004,28,Category and channel aligned
+-8.25511e+18,At Risk,Mixed Basket (Make Up + 8 others),Store,84.9,419.68999999999994,419.68999999999994,277,Channel aligned
+-7.47909e+17,Recent,Fragrance,Store,84.9,416.18,404.38,24,Channel aligned
+5.01328e+18,Loyal,Mixed Basket (Make Up + 1 others),Estore,84.9,416.09999999999997,346.94999999999993,46,New pattern to test
+-6.97485e+17,Loyal,Make Up,Store,84.9,415.65,361.79999999999995,129,Category and channel aligned
+-8.30694e+18,Loyal,Skincare,Store,84.9,405.87,341.87,122,Channel aligned
+3.44533e+18,Loyal,Haircare,Estore,84.9,405.29,343.45000000000005,52,New pattern to test
+-5.10178e+18,Recent,Make Up,Store,84.9,399.47,385.07000000000005,53,Category and channel aligned
+-2.90876e+18,Loyal,Skincare,Store,84.9,393.73,370.84000000000003,67,Channel aligned
+-3.85263e+18,Loyal,Make Up,Store,84.9,383.83,393.88,39,Category and channel aligned
+7.86073e+18,Recent,Skincare,Store,84.9,370.73,393.78000000000003,11,Channel aligned
+1.41122e+18,Promising,Skincare,Store,84.9,344.1,344.1,218,Channel aligned
+2.6983e+18,At Risk,Mixed Basket (Make Up + 2 others),Store,84.9,343.37,343.37,160,Channel aligned
+-8.06014e+18,Recent,Make Up,Store,84.9,318.85,280.75,20,Category and channel aligned
+6.02805e+17,At Risk,Mixed Basket (Skincare + 5 others),Store,84.9,292.79,292.79,253,Channel aligned
+3.96406e+18,Loyal,Haircare,Estore,84.9,258.36,254.96,14,New pattern to test
+6.26882e+18,Promising,Fragrance,Store,84.9,237.99,287.99,174,Channel aligned
+8.71443e+18,Recent,Mixed Basket (Skincare + 2 others),Store,84.9,229.93,257.93,2,Channel aligned
+-3.67244e+18,Recent,Skincare,Store,84.9,211.06,253.86,5,Channel aligned
+-1.52919e+17,At Risk,Fragrance,Estore,84.9,198.04,166.29,311,New pattern to test
+-5.75306e+18,Need Attention,Others,Store,84.9,196.57,273.35,72,Channel aligned
+-6.51065e+17,Recent,Make Up,Estore,84.9,184.96,184.96,18,Category aligned
+1.33653e+18,Need Attention,Others,Store,84.9,179.0,239.0,53,Channel aligned
+-8.27201e+17,Recent,Make Up,Store,84.9,162.18,147.6,116,Category and channel aligned
+8.06979e+17,Recent,Skincare,Store,84.9,160.5,160.5,5,Channel aligned
+2.15305e+18,Need Attention,Make Up,Store,84.9,114.78999999999999,164.69,333,Category and channel aligned
+-1.18769e+18,About to Sleep,Others,Store,84.9,99.89,149.89,39,Channel aligned
+8.30905e+18,At Risk,Fragrance,Store,84.9,97.0,144.1,259,Channel aligned
+5.03638e+18,About to Sleep,Skincare,Store,84.9,89.99,149.99,12,Channel aligned
+-1.69329e+18,About to Sleep,Make Up,Store,84.9,70.47999999999999,108.97999999999999,22,Category and channel aligned
+-4.53804e+18,About to Sleep,Make Up,Store,84.9,63.0,103.0,235,Category and channel aligned
+4.63536e+18,Champions,Make Up,Estore,84.8,1060.57,1151.24,2,Category aligned
+-1.4036e+18,Champions,Make Up,Store,84.8,696.5500000000001,628.6400000000001,21,Category and channel aligned
+-8.48155e+18,Champions,Make Up,Estore,84.8,661.81,420.03,24,Category aligned
+-5.44773e+18,Champions,Make Up,Estore,84.8,652.54,574.99,29,Category aligned
+1.28047e+18,Loyal,Skincare,Store,84.8,640.74,502.81,2,Channel aligned
+4.84386e+18,Potential Loyalist,Skincare,Store,84.8,602.26,490.49,22,Channel aligned
+-8.7501e+18,Loyal,Mixed Basket (Others + 5 others),Store,84.8,592.15,536.3199999999999,1,Channel aligned
+-1.70681e+18,Champions,Make Up,Store,84.8,578.05,559.4,59,Category and channel aligned
+-5.10874e+18,Loyal,Make Up,Store,84.8,550.01,530.31,9,Category and channel aligned
+-6.01147e+16,Loyal,Mixed Basket (Make Up + 2 others),Store,84.8,546.54,480.19999999999993,11,Channel aligned
+-3.77652e+18,Loyal,Make Up,Estore,84.8,530.38,484.49,5,Category aligned
+3.8487e+18,Loyal,Make Up,Store,84.8,524.16,463.60999999999996,4,Category and channel aligned
+-2.37074e+18,Loyal,Skincare,Store,84.8,500.83,412.83,5,Channel aligned
+6.38571e+17,Loyal,Make Up,Store,84.8,486.0,415.25,4,Category and channel aligned
+-4.3987e+18,Recent,Mixed Basket (Make Up + 6 others),Store,84.8,457.98,438.74,55,Channel aligned
+7.79162e+18,Recent,Skincare,Store,84.8,434.22,421.03000000000003,9,Channel aligned
+-8.40839e+18,Loyal,Mixed Basket (Skincare + 1 others),Store,84.8,426.14,418.84999999999997,22,Channel aligned
+-1.28586e+17,Loyal,Mixed Basket (Make Up + 2 others),Estore,84.8,417.76,415.15999999999997,17,New pattern to test
+8.70522e+18,At Risk,Mixed Basket (Make Up + 8 others),Store,84.8,413.8,413.8,273,Channel aligned
+6.07621e+18,Loyal,Make Up,Store,84.8,393.88,243.64,33,Category and channel aligned
+-4.98799e+18,Loyal,Haircare,Estore,84.8,392.84000000000003,329.89000000000004,44,New pattern to test
+1.79315e+18,Loyal,Make Up,Store,84.8,382.24,338.86,13,Category and channel aligned
+1.99416e+18,Loyal,Make Up,Estore,84.8,371.89000000000004,356.1,8,Category aligned
+-7.61169e+18,At Risk,Mixed Basket (Make Up + 12 others),Store,84.8,353.82,353.82,125,Channel aligned
+5.27169e+18,Potential Loyalist,Make Up,Store,84.8,334.98,324.58000000000004,63,Category and channel aligned
+-5.74539e+18,Recent,Fragrance,Estore,84.8,325.23,220.49,126,New pattern to test
+8.06569e+18,Loyal,Make Up,Store,84.8,289.02,240.11999999999998,37,Category and channel aligned
+-7.13794e+17,Promising,Fragrance,Estore,84.8,282.55,208.3,192,New pattern to test
+-7.14951e+18,Loyal,Make Up,Store,84.8,275.71,315.51,77,Category and channel aligned
+5.22748e+18,Loyal,Skincare,Store,84.8,260.52,296.66999999999996,39,Channel aligned
+4.06092e+18,Promising,Mixed Basket (Skincare + 2 others),Store,84.8,247.99,280.99,11,Channel aligned
+-5.14253e+18,Recent,Skincare,Estore,84.8,236.46,228.56,81,New pattern to test
+2.44737e+18,Potential Loyalist,Fragrance,Estore,84.8,236.31,211.27,44,New pattern to test
+6.95047e+18,About to Sleep,Fragrance,Store,84.8,235.42000000000002,213.94000000000003,33,Channel aligned
+4.0878e+18,Potential Loyalist,Mixed Basket (Others + 1 others),Store,84.8,229.87,268.87,12,Channel aligned
+-2.06049e+18,At Risk,Fragrance,Store,84.8,221.82,206.84,110,Channel aligned
+-6.80034e+18,Recent,Fragrance,Store,84.8,207.85000000000002,164.8,35,Channel aligned
+3.73352e+18,Promising,Fragrance,Store,84.8,197.39,197.39,288,Channel aligned
+-3.23227e+18,Potential Loyalist,Make Up,Store,84.8,196.19,240.49,8,Category and channel aligned
+7.89085e+18,Recent,Make Up,Estore,84.8,184.75,163.5,10,Category aligned
+4.40689e+18,Recent,Others,Store,84.8,152.0,232.0,149,Channel aligned
+-5.30122e+18,Recent,Haircare,Estore,84.8,145.76,145.76,60,New pattern to test
+-6.18208e+18,Potential Loyalist,Mixed Basket (Make Up + 1 others),Store,84.8,142.31,191.01,53,Channel aligned
+-4.35718e+18,Champions,Others,Store,84.7,2118.5,2063.57,1,Channel aligned
+-4.95219e+18,Loyal,Skincare,Store,84.7,1374.71,1056.13,18,Channel aligned
+-7.56308e+17,Champions,Make Up,Store,84.7,1043.33,1105.97,42,Category and channel aligned

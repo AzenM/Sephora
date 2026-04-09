@@ -1,0 +1,7 @@
+metric,value,formula,sample
+Value at risk now,"EUR 417,360",Sum of 12m value proxy for top-quartile value customers already in fragile RFM states.,1062
+Warm reactivation pool,"EUR 1,490,732",Sum of 12m value proxy for repeat customers with path score 60-80 and 60-180 days since last purchase.,7879
+Omnichannel upside,EUR 199,Difference in average 12m value between omnichannel and mono-channel customers among repeaters in growth/high-value states.,26957
+Promo margin gap,EUR 167,Difference in average 12m margin between low-promo and high-promo promising repeaters with path score >= 60.,35197
+Latest-month upgrades,"4,085",Sum of customer-month transitions flagged as RFM improvement in the latest observed month.,14501
+Latest-month downgrades,"2,444",Sum of customer-month transitions flagged as RFM decline in the latest observed month.,14501

@@ -1,0 +1,12 @@
+feature,importance,model
+days_to_second,63.85820567382641,catboost
+revenue_90d,12.008908623482833,catboost
+avg_basket_first_2_visits,8.759813393278243,catboost
+revenue_first_2_visits,7.254764182401151,catboost
+first_basket_value,4.58546801182569,catboost
+first_purchase_discount_ratio,1.6193626400618735,catboost
+categories_first_2_visits,0.7561536053198801,catboost
+first_purchase_discounted,0.5128482693711786,catboost
+second_purchase_within_30d,0.30328964152229554,catboost
+channels_first_2_visits,0.21589265951426867,catboost
+second_purchase_within_60d,0.12529329939616898,catboost

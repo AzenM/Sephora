@@ -1,0 +1,19 @@
+rule_type,signal,priority,what_to_do,owner,kpi
+Transition,Loyal -> Champions,Scale,Industrialize second-channel adoption in similar cohorts.,CRM + Omnichannel,Share of customers completing the winning transition
+Transition,Potential Loyalist -> Loyal,Scale,Industrialize second-channel adoption in similar cohorts.,CRM + Omnichannel,Share of customers completing the winning transition
+Transition,About to Sleep -> Recent,Scale,Industrialize second-channel adoption in similar cohorts.,CRM + Omnichannel,Share of customers completing the winning transition
+Transition,Need Attention -> Recent,Scale,Industrialize second-channel adoption in similar cohorts.,CRM + Omnichannel,Share of customers completing the winning transition
+Transition,Promising -> Promising,Monitor,Reopen breadth: add a new category or channel before the next visit window closes.,CRM,Stable share with higher value per customer
+Transition,Promising -> Recent,Scale,Protect the gain but stop relying on rising promo intensity.,CRM + Merchandising,Share of customers completing the winning transition
+Journey,Loyalty Climbers,Fix,"Keep the path, but insert adjacent-category cross-sell after purchase two.",CRM + Category,Repeat rate and omnichannel adoption
+Journey,Single-Category Repeaters,Fix,"Keep the path, but insert adjacent-category cross-sell after purchase two.",CRM + Category,Repeat rate and omnichannel adoption
+Journey,Single-Category Repeaters,Fix,"Keep the path, but insert adjacent-category cross-sell after purchase two.",CRM + Category,Repeat rate and omnichannel adoption
+Journey,Developing Journeys,Scale,Scale the acquisition pattern and add a second-channel trigger inside 45 days.,CRM + Omnichannel,Share of new customers entering this path
+Journey,Accelerated Winners,Fix,"Reduce discounting and replace it with bundle, sample, or exclusivity mechanics.",CRM + Merchandising,Repeat rate and omnichannel adoption
+Journey,Single-Category Repeaters,Scale,Scale the acquisition pattern and add a second-channel trigger inside 45 days.,CRM + Omnichannel,Share of new customers entering this path
+Acquisition,Unknown / Unknown / Full Price,Scale,Increase budget and replicate the first 30-day onboarding sequence on lookalikes.,Acquisition + CRM,12m value per recruited customer
+Acquisition,Fragrance / Store / Discounted,Fix economics,"Keep the cohort but swap blanket discounts for bundles, samples, or exclusivity.",Acquisition + Merchandising,Margin per recruited customer
+Acquisition,Fragrance / Store / Full Price,Scale,Increase budget and replicate the first 30-day onboarding sequence on lookalikes.,Acquisition + CRM,12m value per recruited customer
+Acquisition,Fragrance / Estore / Discounted,Fix economics,"Keep the cohort but swap blanket discounts for bundles, samples, or exclusivity.",Acquisition + Merchandising,Margin per recruited customer
+Acquisition,Mixed Basket (Fragrance + 1 others) / Store / Discounted,Scale,Increase budget and replicate the first 30-day onboarding sequence on lookalikes.,Acquisition + CRM,12m value per recruited customer
+Acquisition,Mixed Basket (Make Up + 1 others) / Store / Full Price,Fix speed,Add a purchase-two trigger within 30 days and shorten the welcome sequence.,CRM,Second purchase within 30 days

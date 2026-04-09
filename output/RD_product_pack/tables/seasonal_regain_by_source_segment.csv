@@ -1,0 +1,9 @@
+period,prev_rfm,eligible_customers,regained_customers,regain_rate
+Noel,About to Sleep,1389,332,0.23902087832973362
+Noel,At Risk,681,197,0.28928046989721
+Noel,Can't Lose,84,3,0.03571428571428571
+Noel,Need Attention,1485,775,0.5218855218855218
+Periode proche,About to Sleep,987,266,0.2695035460992908
+Periode proche,At Risk,390,142,0.3641025641025641
+Periode proche,Can't Lose,35,5,0.14285714285714285
+Periode proche,Need Attention,1025,634,0.6185365853658537
