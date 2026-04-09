@@ -7,7 +7,7 @@ This folder contains a human friendly graph library for screens and presentation
 - Who is affected: High-value customers already sliding into fragile RFM states (1,062 customers).
 - What to do now: Launch a save sequence inside 7 days: replenishment, category reminder, then tier recognition.
 
-- Total PNG figures: 80
+- Total PNG figures: 89
 
 ## New focus
 - Seasonal regain benchmark: Noel 2025-12 vs periode proche 2025-11
@@ -94,6 +94,15 @@ This folder contains a human friendly graph library for screens and presentation
 - figures/png/time_series_forecast_tickets.png
 - figures/png/time_series_forecast_active_customers.png
 - figures/png/time_series_forecast_signals.png
+- figures/png/clustering_benchmark_silhouette.png
+- figures/png/clustering_benchmark_noise_share.png
+- figures/png/clustering_profiles_by_method_and_size.png
+- figures/png/clustering_profiles_revenue_vs_discount.png
+- figures/png/pm4py_top_journey_variants.png
+- figures/png/pm4py_top_directly_follows_edges.png
+- figures/png/pm4py_start_activities.png
+- figures/png/pm4py_end_activities.png
+- figures/png/pm4py_process_quality_metrics.png
 
 ## Tables
 - tables/executive_priority_actions.csv
@@ -113,6 +122,13 @@ This folder contains a human friendly graph library for screens and presentation
 - tables/ai_time_series_monthly.csv
 - tables/ai_time_series_forecast.csv
 - tables/ai_time_series_signals.csv
+- tables/ai_cluster_profiles_multi.csv
+- tables/ai_cluster_benchmark.csv
+- tables/pm4py_variants.csv
+- tables/pm4py_dfg.csv
+- tables/pm4py_start_activities.csv
+- tables/pm4py_end_activities.csv
+- tables/pm4py_quality.csv
 - tables/seasonal_regain_monthly.csv
 - tables/seasonal_regain_noel_vs_proche.csv
 - tables/seasonal_regain_by_source_segment.csv

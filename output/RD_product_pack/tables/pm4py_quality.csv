@@ -1,0 +1,5 @@
+metric,value
+log_fitness,1.0
+average_trace_fitness,1.0
+precision,0.2529662626846708
+traces_with_fit,100.0

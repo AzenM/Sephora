@@ -1,0 +1,4 @@
+method,n_clusters_ex_noise,noise_pct,silhouette,selected_k,dbscan_eps,dbscan_min_samples
+kmeans,5,0.0,0.40190829091712804,5.0,,
+agglomerative,5,0.0,0.3818976224241263,5.0,,
+dbscan,7,0.04917091935658999,0.33482039212313414,,1.6755698592106398,35.0
